@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "purpose": "Public documentation and anonymous previews only; no core code or private evidence",
+  "purpose": "Public summaries and anonymous previews only; no core code or private evidence",
   "as_of": "2026-10-17",
   "files": [
     {
@@ -55,13 +55,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3873,
-      "sha256": "3b9f34217e498c19dbe37b03aa0c1c04e8ff337aa06d1a17f8a44775e26b2045"
+      "bytes": 4026,
+      "sha256": "877a16af5fbb6933325408e9866408eedae3a51c487177d06b3e502ea6df4732"
     },
     {
       "path": "ROADMAP.md",
-      "bytes": 3261,
-      "sha256": "f4fab596a4dc93141b8cf6c3e2f973144288d78294e7f04e28e125d1d5eed568"
+      "bytes": 3485,
+      "sha256": "0bc201b07116fbb65f43e068ca03215b66baed6892ca56125ee458f76fb823d3"
     },
     {
       "path": "stage-01-research.md",
@@ -127,6 +127,11 @@
       "path": "stage-13-versioned-audit.md",
       "bytes": 1724,
       "sha256": "99464fec4b2f3891d22372b3cc1e0c040435d298eca0e8a5251970b29b8cb176"
+    },
+    {
+      "path": "stage-14-a2a-local.md",
+      "bytes": 2021,
+      "sha256": "96cf57fccc069138f5d7f0da6c45c97583aecf7138263f08ef1dd3dd5b497a0e"
     },
     {
       "path": "VISUAL-MAINTENANCE.md",

@@ -47,3 +47,5 @@
 阶段13后台已补检测版本选择、目录事实检查及14题快照筛选；[说明](stage-13-versioned-audit.md)。页面覆盖不代表AI引用或获客。
 
 ![问题覆盖预览](dashboard-coverage-preview.png)
+
+阶段14已验证[A2A公开资料本机查询](stage-14-a2a-local.md)与官方参考客户端兼容；未验证外部Agent、自然发现或生产。
