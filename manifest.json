@@ -1,12 +1,22 @@
 {
   "schema_version": 1,
-  "purpose": "Public collaboration documentation only; not application source or a production release",
+  "purpose": "Public collaboration documentation only; no core code or private evidence",
   "as_of": "2026-10-17",
   "files": [
     {
       "path": "CONTENT-MAINTENANCE.md",
       "bytes": 1253,
       "sha256": "0025298414ac935b4ae7b997c818a179ed9bcde7835c73f6d559fc15ffe7dc6c"
+    },
+    {
+      "path": "dashboard-desktop-preview.png",
+      "bytes": 48209,
+      "sha256": "f08a2a7679c836617c7e5e0b5d90b7b6de246315c4fe0a0e2a45dbf3f5675cc6"
+    },
+    {
+      "path": "dashboard-mobile-preview.png",
+      "bytes": 50180,
+      "sha256": "649061fe32d56e7d41c44449107edf55aedbc148719093ba3b4d3569c761f696"
     },
     {
       "path": "home-desktop-preview.png",
@@ -35,13 +45,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 2244,
-      "sha256": "6019a0e2a5b0f368e5b3a2168d57e7333cc1334e7551a8499875103315410db0"
+      "bytes": 2967,
+      "sha256": "977f27ab8f4ba0017a6b1f70d362a4814c392346bf3bafdb388e7c462be4d71a"
     },
     {
       "path": "ROADMAP.md",
-      "bytes": 1872,
-      "sha256": "73395021558ba6526c93c2e7f86c31efd7b061da6e99d774d7a83c92934c985a"
+      "bytes": 2220,
+      "sha256": "ad19b833f77ef48aa3dd6b013e4d17e2bac492f42074987067128be1664cccfa"
     },
     {
       "path": "stage-01-research.md",
@@ -77,6 +87,16 @@
       "path": "stage-07-resources.md",
       "bytes": 1074,
       "sha256": "1ba5b0d3a20225498ebad4de034bc601e9a32be15d34648f2ca017a2f50a99ae"
+    },
+    {
+      "path": "stage-08-public-sync.md",
+      "bytes": 690,
+      "sha256": "7010af48565dab6fa177939dd17b534832fcb85ca6df973d2bb99bc2a80fd029"
+    },
+    {
+      "path": "stage-09-local-dashboard.md",
+      "bytes": 1901,
+      "sha256": "36d57abb5033089043760ff325c6f24b110d7ebdc0b40a57987dbb63366681e1"
     },
     {
       "path": "workflow-brief.en.md",
