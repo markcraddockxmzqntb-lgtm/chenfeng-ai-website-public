@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "purpose": "Public collaboration documentation only; no core code or private evidence",
+  "purpose": "Public documentation and anonymous previews only; no core code or private evidence",
   "as_of": "2026-10-17",
   "files": [
     {
@@ -20,13 +20,18 @@
     },
     {
       "path": "home-desktop-preview.png",
-      "bytes": 477106,
-      "sha256": "dd3f8367296bf65b05658ec9bbcfe12219269cf2c365dd1defa4e6bd25e8624b"
+      "bytes": 451724,
+      "sha256": "32df97dbc5b650e041d9dff094674720485106d1d08927f4ae2df3d0a799501e"
     },
     {
       "path": "home-mobile-preview.png",
-      "bytes": 71574,
-      "sha256": "8cb4c1f808cdc095b2c4f3f7b561c1be846c39eff4773ede77edc81aafca92bc"
+      "bytes": 89633,
+      "sha256": "4573222e66c45feee3163b76addf1a1f5079042550fea0a490354e8ca3e41868"
+    },
+    {
+      "path": "PUBLIC-CATALOG.md",
+      "bytes": 1920,
+      "sha256": "f3b6f3873ce13150e5d14441ef1c047e568dc2c224f8d4ba4de8e5965fa134ec"
     },
     {
       "path": "PUBLICATION-POLICY.md",
@@ -45,13 +50,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 2967,
-      "sha256": "977f27ab8f4ba0017a6b1f70d362a4814c392346bf3bafdb388e7c462be4d71a"
+      "bytes": 3360,
+      "sha256": "3b6218b79905ab41864f3fb1a8d3718280b424315be81761c66a80ce30cc4ed7"
     },
     {
       "path": "ROADMAP.md",
-      "bytes": 2220,
-      "sha256": "ad19b833f77ef48aa3dd6b013e4d17e2bac492f42074987067128be1664cccfa"
+      "bytes": 2733,
+      "sha256": "689ebde00a3444b2e43ffc794c675fcb5ae87a8f5d8cb1a9685f8203f7c20ace"
     },
     {
       "path": "stage-01-research.md",
@@ -97,6 +102,16 @@
       "path": "stage-09-local-dashboard.md",
       "bytes": 1901,
       "sha256": "36d57abb5033089043760ff325c6f24b110d7ebdc0b40a57987dbb63366681e1"
+    },
+    {
+      "path": "stage-10-agent-catalog.md",
+      "bytes": 1597,
+      "sha256": "c54edcd53f52f0ea898129e98ff17f06edf8d48a7478a8d7e61e544eef47a972"
+    },
+    {
+      "path": "stage-11-motion-polish.md",
+      "bytes": 1171,
+      "sha256": "c609e1be516ea630298ab0db402ac2e7684103bdd6ef54eb1557ddf9e9888922"
     },
     {
       "path": "workflow-brief.en.md",
