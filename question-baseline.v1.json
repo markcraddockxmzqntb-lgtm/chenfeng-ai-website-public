@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "version": "2026-10-17-v1",
+  "status": "candidate-unmeasured",
+  "notes": "候选问题未测搜索量、难度或平台引用；品牌题/非品牌题分开；CN/HK是服务范围，不是定向投放或本地地址。",
+  "coverage": [
+    "中国大陆",
+    "香港"
+  ],
+  "questions": [
+    {
+      "id": "zh-01",
+      "kind": "brand",
+      "locale": "zh-CN",
+      "question": "塵風AI提供哪些定制开发服务？",
+      "page": "/services/"
+    },
+    {
+      "id": "en-01",
+      "kind": "brand",
+      "locale": "en",
+      "question": "What custom AI services does Chenfeng AI offer?",
+      "page": "/en/services/"
+    },
+    {
+      "id": "zh-02",
+      "kind": "non-brand",
+      "locale": "zh-CN",
+      "question": "外贸团队如何用AI整理询盘并保留人工审核？",
+      "page": "/services/inquiry-support/"
+    },
+    {
+      "id": "en-02",
+      "kind": "non-brand",
+      "locale": "en",
+      "question": "How can a trade team use AI to draft inquiry replies with human approval?",
+      "page": "/en/services/inquiry-support/"
+    },
+    {
+      "id": "zh-03",
+      "kind": "non-brand",
+      "locale": "zh-CN",
+      "question": "跨境电商如何把商品手册和售后政策做成有来源的知识库？",
+      "page": "/services/knowledge-base/"
+    },
+    {
+      "id": "en-03",
+      "kind": "non-brand",
+      "locale": "en",
+      "question": "How can an ecommerce team build a knowledge base from product manuals and support policies?",
+      "page": "/en/services/knowledge-base/"
+    },
+    {
+      "id": "zh-04",
+      "kind": "non-brand",
+      "locale": "zh-CN",
+      "question": "企业用MCP连接现有系统前要确认哪些权限和接口？",
+      "page": "/services/mcp-integration/"
+    },
+    {
+      "id": "en-04",
+      "kind": "non-brand",
+      "locale": "en",
+      "question": "What permissions and API requirements should a business check before an MCP integration?",
+      "page": "/en/services/mcp-integration/"
+    },
+    {
+      "id": "zh-05",
+      "kind": "non-brand",
+      "locale": "zh-CN",
+      "question": "外贸企业定制AI智能体前要准备哪些资料？",
+      "page": "/resources/ai-readiness/"
+    },
+    {
+      "id": "en-05",
+      "kind": "non-brand",
+      "locale": "en",
+      "question": "What should a trade business prepare before commissioning a custom AI agent?",
+      "page": "/en/resources/ai-readiness/"
+    }
+  ]
+}

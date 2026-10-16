@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "purpose": "Public collaboration documentation only; not application source or a production release",
+  "as_of": "2026-10-17",
+  "files": [
+    {
+      "path": "CONTENT-MAINTENANCE.md",
+      "bytes": 1253,
+      "sha256": "0025298414ac935b4ae7b997c818a179ed9bcde7835c73f6d559fc15ffe7dc6c"
+    },
+    {
+      "path": "home-desktop-preview.png",
+      "bytes": 477106,
+      "sha256": "dd3f8367296bf65b05658ec9bbcfe12219269cf2c365dd1defa4e6bd25e8624b"
+    },
+    {
+      "path": "home-mobile-preview.png",
+      "bytes": 71574,
+      "sha256": "8cb4c1f808cdc095b2c4f3f7b561c1be846c39eff4773ede77edc81aafca92bc"
+    },
+    {
+      "path": "PUBLICATION-POLICY.md",
+      "bytes": 1153,
+      "sha256": "a85b3b53bcf664a1709740740fe8067f4acb4cd303d59b6b1574bc4b7a9f52a2"
+    },
+    {
+      "path": "question-baseline.v1.json",
+      "bytes": 2547,
+      "sha256": "c19ffd3f44a4b558abc659f48d64e610f20c4a1a5331e52160246966a36b2ca1"
+    },
+    {
+      "path": "question-exploration.v1.json",
+      "bytes": 1325,
+      "sha256": "d25ae4c9d82ae49dbd9dd0c2bbaf53492d4686d557b9e665603c5febb83c5654"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2244,
+      "sha256": "6019a0e2a5b0f368e5b3a2168d57e7333cc1334e7551a8499875103315410db0"
+    },
+    {
+      "path": "ROADMAP.md",
+      "bytes": 1872,
+      "sha256": "73395021558ba6526c93c2e7f86c31efd7b061da6e99d774d7a83c92934c985a"
+    },
+    {
+      "path": "stage-01-research.md",
+      "bytes": 638,
+      "sha256": "70f8006044f70843b7524169261e4afcd1dfb56d13f93a90eb6d97c185f8adbd"
+    },
+    {
+      "path": "stage-02-prototype.md",
+      "bytes": 587,
+      "sha256": "366f91919e4026a6c921056fa62412833bbbf60521b250cbc09d3551805c27af"
+    },
+    {
+      "path": "stage-03-browser.md",
+      "bytes": 505,
+      "sha256": "4101aaf2719119d88b21d6d4cc795357d3fee9bdefe2a48ffb4b314b449b652b"
+    },
+    {
+      "path": "stage-04-resource.md",
+      "bytes": 596,
+      "sha256": "c0af1f7012bfd602f725ea100dc2556740f65c4d633cc7cf1b1ebde52f06813c"
+    },
+    {
+      "path": "stage-05-release.md",
+      "bytes": 682,
+      "sha256": "a9bd3f6c8089439f8b91a4fa2a5c2a97e758e234b63f02de8f583e492baac58f"
+    },
+    {
+      "path": "stage-06-astro-visual.md",
+      "bytes": 1123,
+      "sha256": "d06042092de608fa14daaaaac1a62c5166620f8033499e7eddda8f4df43469d2"
+    },
+    {
+      "path": "stage-07-resources.md",
+      "bytes": 1074,
+      "sha256": "1ba5b0d3a20225498ebad4de034bc601e9a32be15d34648f2ca017a2f50a99ae"
+    },
+    {
+      "path": "workflow-brief.en.md",
+      "bytes": 736,
+      "sha256": "a63fc5f68c334de01feb4d560b436b1658875e5b18e10ace6403a03ec6ccbd46"
+    },
+    {
+      "path": "workflow-brief.zh.md",
+      "bytes": 689,
+      "sha256": "e6977804afdbed59a8f9e6f16b170d174c3fdf4b315aeba596799e1c14a96d9e"
+    }
+  ]
+}

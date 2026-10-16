@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "version": "2026-10-17-exploration-v1",
+  "status": "candidate-unmeasured",
+  "purpose": "新增资源的探索候选，独立于 question-page-map.v1.json 固定基准；不自动加入历史指标分母。",
+  "notes": "根据当前服务与资源正文整理，未测搜索量、需求热度或AI引用；区域仍是大陆/香港服务范围，不是实际采样位置或投放数据。",
+  "questions": [
+    {"id":"zh-exp-01","kind":"non-brand","locale":"zh-CN","question":"外贸团队做AI自动化，智能体、Skill、插件和MCP怎么选？","page":"/resources/ai-tools-guide/","source":"website/src/data/resources.ts"},
+    {"id":"en-exp-01","kind":"non-brand","locale":"en","question":"How should a trade team choose between agents, Skills, plugins and MCP?","page":"/en/resources/ai-tools-guide/","source":"website/src/data/resources.ts"},
+    {"id":"zh-exp-02","kind":"non-brand","locale":"zh-CN","question":"定制外贸AI工作流，需求简报应该写哪些内容？","page":"/resources/workflow-brief/","source":"website/src/data/resources.ts"},
+    {"id":"en-exp-02","kind":"non-brand","locale":"en","question":"What should a workflow brief include before discussing a custom AI build?","page":"/en/resources/workflow-brief/","source":"website/src/data/resources.ts"}
+  ]
+}
