@@ -21,7 +21,7 @@
 
 ## 阅读顺序
 
-1. [阶段 01](stage-01-research.md) → [02](stage-02-prototype.md) → [03](stage-03-browser.md) → [04](stage-04-resource.md) → [05](stage-05-release.md) → [06](stage-06-astro-visual.md) → [07](stage-07-resources.md) → [08](stage-08-public-sync.md) → [09](stage-09-local-dashboard.md) → [10](stage-10-agent-catalog.md) → [11](stage-11-motion-polish.md) → [12](stage-12-motion-polish.md)。
+1. [阶段 01](stage-01-research.md) → [02](stage-02-prototype.md) → [03](stage-03-browser.md) → [04](stage-04-resource.md) → [05](stage-05-release.md) → [06](stage-06-astro-visual.md) → [07](stage-07-resources.md) → [08](stage-08-public-sync.md) → [09](stage-09-local-dashboard.md) → [10](stage-10-agent-catalog.md) → [11](stage-11-motion-polish.md) → [12](stage-12-motion-polish.md) → [13](stage-13-versioned-audit.md)。
 2. [后续路线](ROADMAP.md)与[公开范围](PUBLICATION-POLICY.md)。
 3. [内容维护规则](CONTENT-MAINTENANCE.md)、[中文简报](workflow-brief.zh.md)、[English brief](workflow-brief.en.md)。
 4. 固定候选问题 `question-baseline.v1.json` 与独立探索问题 `question-exploration.v1.json`；均未测量，不是热词或真实流量数据。
@@ -43,3 +43,7 @@
 ![后台桌面预览](dashboard-desktop-preview.png)
 
 ![后台手机预览](dashboard-mobile-preview.png)
+
+阶段13后台已补检测版本选择、目录事实检查及14题快照筛选；[说明](stage-13-versioned-audit.md)。页面覆盖不代表AI引用或获客。
+
+![问题覆盖预览](dashboard-coverage-preview.png)

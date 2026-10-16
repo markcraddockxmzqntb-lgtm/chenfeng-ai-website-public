@@ -9,14 +9,19 @@
       "sha256": "0025298414ac935b4ae7b997c818a179ed9bcde7835c73f6d559fc15ffe7dc6c"
     },
     {
+      "path": "dashboard-coverage-preview.png",
+      "bytes": 38317,
+      "sha256": "e27165464eeccc584d324b80aa345730214abd9eb9e7682c6c1468c06f478372"
+    },
+    {
       "path": "dashboard-desktop-preview.png",
-      "bytes": 48209,
-      "sha256": "f08a2a7679c836617c7e5e0b5d90b7b6de246315c4fe0a0e2a45dbf3f5675cc6"
+      "bytes": 49678,
+      "sha256": "8ef5a6360532be2f69fa6bceea9f7e1f0ae04e12bba2be3d1feb752c4192edcd"
     },
     {
       "path": "dashboard-mobile-preview.png",
-      "bytes": 50180,
-      "sha256": "649061fe32d56e7d41c44449107edf55aedbc148719093ba3b4d3569c761f696"
+      "bytes": 15351,
+      "sha256": "0661b12c3a1348d8bea263c7d5459108f2e04100b7d0045c9632dd7274f3d07b"
     },
     {
       "path": "home-desktop-preview.png",
@@ -50,13 +55,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3611,
-      "sha256": "57e9f74c2d66167a9888c79f5ecfb0d2fea007ecf52bd143223e6f478787c84d"
+      "bytes": 3873,
+      "sha256": "3b9f34217e498c19dbe37b03aa0c1c04e8ff337aa06d1a17f8a44775e26b2045"
     },
     {
       "path": "ROADMAP.md",
-      "bytes": 3004,
-      "sha256": "e8e32568cc5d53b95463a8d09f3b4b2f53603381570aeaf0d748bd9268679841"
+      "bytes": 3261,
+      "sha256": "f4fab596a4dc93141b8cf6c3e2f973144288d78294e7f04e28e125d1d5eed568"
     },
     {
       "path": "stage-01-research.md",
@@ -117,6 +122,11 @@
       "path": "stage-12-motion-polish.md",
       "bytes": 1443,
       "sha256": "c15a1a371c087f1ae1ed9725128f41b5b32652e7bc8eaeefac5d1e64a8e1330e"
+    },
+    {
+      "path": "stage-13-versioned-audit.md",
+      "bytes": 1724,
+      "sha256": "99464fec4b2f3891d22372b3cc1e0c040435d298eca0e8a5251970b29b8cb176"
     },
     {
       "path": "VISUAL-MAINTENANCE.md",
