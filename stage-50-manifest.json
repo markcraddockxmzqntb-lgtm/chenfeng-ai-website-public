@@ -1,0 +1,20 @@
+{
+  "stage": 50,
+  "date": "2026-10-18",
+  "scope": "sanitized local chat fallback validation only",
+  "files": [
+    {
+      "path": "stage-50-chat-failure-fallback.md",
+      "bytes": 971,
+      "sha256": "BAB633373A9FBA90ADAA06614510554BE948EAFBA698024A08D0B1640E50342A"
+    }
+  ],
+  "exclusions": [
+    "core source code",
+    "credentials",
+    "customer data",
+    "raw conversations",
+    "production configuration",
+    "private browser evidence"
+  ]
+}
