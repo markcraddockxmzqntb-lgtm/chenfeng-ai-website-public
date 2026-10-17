@@ -16,13 +16,14 @@
 - 阶段11视觉精修已完成本地浏览器验收，首屏、卡片与流程动态、手机和减少动态通过；见[阶段11](stage-11-motion-polish.md)。
 - 阶段12增加工作流背景分层、桌面轻微视差、按钮扫光与手机降级，已通过本地浏览器验收；见[阶段12](stage-12-motion-polish.md)及[视觉维护规则](VISUAL-MAINTENANCE.md)。
 - 阶段15取得一条真实 ChatGPT 中文访客模式样本；回答完成但未出现品牌字面提及，来源捕获不完整且一条来源页面显示 404。该样本仅证明一次观测，不计入有效推荐、官网引用或咨询率；见[阶段15真实回答摘要](stage-15-answer-evidence.md)。
+- 阶段16完成本地实施复核：Astro 构建 30 页通过，中文首页 360px 与英文服务页 390px 无横向溢出，微信复制和 WhatsApp 入口可用；见[阶段16实施摘要](stage-16-implementation.md)。
 - 正式官网尚未部署。国内外 AI 消费端持续采样、生产后台与托管、GPT 接待与 A2A 实际交互尚未完成。
 
 公开文档与截图不证明上线、搜索索引、AI 引用、有效咨询或成交。这里没有用于部署的正式域名，也不提供虚构的收录概率。
 
 ## 阅读顺序
 
-1. [阶段 01](stage-01-research.md) → [02](stage-02-prototype.md) → [03](stage-03-browser.md) → [04](stage-04-resource.md) → [05](stage-05-release.md) → [06](stage-06-astro-visual.md) → [07](stage-07-resources.md) → [08](stage-08-public-sync.md) → [09](stage-09-local-dashboard.md) → [10](stage-10-agent-catalog.md) → [11](stage-11-motion-polish.md) → [12](stage-12-motion-polish.md) → [13](stage-13-versioned-audit.md) → [14](stage-14-a2a-local.md) → [15真实回答摘要](stage-15-answer-evidence.md)。
+1. [阶段 01](stage-01-research.md) → [02](stage-02-prototype.md) → [03](stage-03-browser.md) → [04](stage-04-resource.md) → [05](stage-05-release.md) → [06](stage-06-astro-visual.md) → [07](stage-07-resources.md) → [08](stage-08-public-sync.md) → [09](stage-09-local-dashboard.md) → [10](stage-10-agent-catalog.md) → [11](stage-11-motion-polish.md) → [12](stage-12-motion-polish.md) → [13](stage-13-versioned-audit.md) → [14](stage-14-a2a-local.md) → [15真实回答摘要](stage-15-answer-evidence.md) → [16实施摘要](stage-16-implementation.md)。
 2. [后续路线](ROADMAP.md)与[公开范围](PUBLICATION-POLICY.md)。
 3. [内容维护规则](CONTENT-MAINTENANCE.md)、[中文简报](workflow-brief.zh.md)、[English brief](workflow-brief.en.md)。
 4. 固定候选问题 `question-baseline.v1.json` 与独立探索问题 `question-exploration.v1.json`；均未测量，不是热词或真实流量数据。
@@ -50,3 +51,9 @@
 ![问题覆盖预览](dashboard-coverage-preview.png)
 
 阶段14已验证[A2A公开资料本机查询](stage-14-a2a-local.md)与官方参考客户端兼容；未验证外部Agent、自然发现或生产。
+
+阶段16的匿名视觉截图：
+
+![英文服务页 390px](stage-16-en-services-390.png)
+
+![中文首页 360px](stage-16-zh-home-360.png)
