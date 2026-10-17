@@ -1,0 +1,19 @@
+{
+  "stage": 51,
+  "date": "2026-10-18",
+  "scope": "sanitized regression and build verification summary",
+  "files": [
+    {
+      "path": "stage-51-full-regression.md",
+      "sha256": "6AAFA975B8B6774AC074B4E783922A67E703705151EC409E4556782F88495BEE"
+    }
+  ],
+  "exclusions": [
+    "core source code",
+    "credentials",
+    "customer data",
+    "raw model responses",
+    "private browser evidence",
+    "production configuration"
+  ]
+}
