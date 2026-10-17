@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "purpose": "Public summaries and anonymous previews only; no core code or private evidence",
-  "as_of": "2026-10-17",
+  "generated_at_utc": "2026-10-17T00:04:58.1319537Z",
   "files": [
     {
       "path": "CONTENT-MAINTENANCE.md",
@@ -55,13 +55,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4026,
-      "sha256": "877a16af5fbb6933325408e9866408eedae3a51c487177d06b3e502ea6df4732"
+      "bytes": 4427,
+      "sha256": "543280100dd8544f6fbaa603e9486e7b8858f42a2b7c3ae1215f7da9111150a2"
     },
     {
       "path": "ROADMAP.md",
-      "bytes": 3485,
-      "sha256": "0bc201b07116fbb65f43e068ca03215b66baed6892ca56125ee458f76fb823d3"
+      "bytes": 4128,
+      "sha256": "8fced1dfde2cfdc3145d671c981af4c8b3752c1be04499076ff6fe17c631eea2"
     },
     {
       "path": "stage-01-research.md",
@@ -132,6 +132,11 @@
       "path": "stage-14-a2a-local.md",
       "bytes": 2021,
       "sha256": "96cf57fccc069138f5d7f0da6c45c97583aecf7138263f08ef1dd3dd5b497a0e"
+    },
+    {
+      "path": "stage-15-answer-evidence.md",
+      "bytes": 1021,
+      "sha256": "235356db43a9c20b262f3665c229440586e82c2383b5e8e3d92943a3326bd29c"
     },
     {
       "path": "VISUAL-MAINTENANCE.md",
