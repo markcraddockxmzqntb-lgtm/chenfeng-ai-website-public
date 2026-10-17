@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Chenfeng AI">
+  <rect width="64" height="64" rx="18" fill="#12232e"/>
+  <path d="M44 19C39 14 32 13 25 16C17 19 13 27 15 34C17 41 23 46 30 46" fill="none" stroke="#ee7f62" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="44" cy="19" r="5" fill="#d5e56d"/>
+  <circle cx="46" cy="32" r="2.5" fill="#d5e56d"/>
+  <circle cx="42" cy="42" r="2.5" fill="#d5e56d"/>
+</svg>

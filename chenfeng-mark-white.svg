@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chenfeng AI mark</title>
+  <desc id="desc">A white orbit and signal on a transparent field.</desc>
+  <path d="M43.6 18.7C38.9 14.2 31.7 12.7 25.5 15.1C18.1 18 13.4 25.8 14.5 32.9C15.5 39.7 21.4 45 28.5 45.4" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M36.4 46.1C44.3 43.4 49 36.7 47.4 29.5" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 7"/>
+  <circle cx="43.4" cy="18.8" r="4.2" fill="#FFFFFF"/>
+  <circle cx="28.8" cy="45.1" r="2.4" fill="#FFFFFF"/>
+</svg>

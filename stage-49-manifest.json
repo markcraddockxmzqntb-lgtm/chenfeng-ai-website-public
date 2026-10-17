@@ -1,0 +1,52 @@
+{
+  "stage": 49,
+  "date": "2026-10-18",
+  "scope": "public brand assets and sanitized validation only",
+  "files": [
+    {
+      "path": "chenfeng-avatar-1024.png",
+      "bytes": 40433,
+      "sha256": "42ab9070bc44eba5cb721a6cc7980ba7bd4c5d05a004a978aa78b0b0cb3a172b"
+    },
+    {
+      "path": "chenfeng-avatar-512.png",
+      "bytes": 34918,
+      "sha256": "7bc66842afed07ef39128548f24c3aedb5184603fc5d7654087307bad33fe821"
+    },
+    {
+      "path": "chenfeng-brand-preview.png",
+      "bytes": 21411,
+      "sha256": "8035f6d7a786a4c70fb32b7ef33ef8cbb08ff26014621c635d0e8a78a67621d0"
+    },
+    {
+      "path": "chenfeng-favicon.svg",
+      "bytes": 455,
+      "sha256": "2406a8291f8fbbfd45a2bd79cfda28f98484378115b677ebf6bc1cbabe7f30b2"
+    },
+    {
+      "path": "chenfeng-mark-white.svg",
+      "bytes": 681,
+      "sha256": "b83eb8589cf1e5defed72b7b0befd5ac2ad9b384e3945fb6043ea7d977e6d12a"
+    },
+    {
+      "path": "chenfeng-mark.svg",
+      "bytes": 737,
+      "sha256": "17cf91ba254a0b8b3c835e162289e3468ef9eaeb9924d5353432e217b0c034d7"
+    },
+    {
+      "path": "stage-49-brand-visual-validation.md",
+      "bytes": 2397,
+      "sha256": "89106aad8b17e65da72b2faf8d87099aa24068dd08ea1f50b8db28901ed8e8b5"
+    },
+    {
+      "path": "website-stage49-en-desktop-final.png",
+      "bytes": 520543,
+      "sha256": "839fd318b7b60bd829b06af5b1587f33593a5685ddca66e4b1bead7761831a37"
+    },
+    {
+      "path": "website-stage49-zh-mobile-final.png",
+      "bytes": 148693,
+      "sha256": "7a6fd981ee2f1122519f92ec415ccf35b3c90690499c5b094287d1e1c73df4b9"
+    }
+  ]
+}
