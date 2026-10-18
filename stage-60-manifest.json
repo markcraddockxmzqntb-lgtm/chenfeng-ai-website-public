@@ -1,0 +1,12 @@
+{
+  "stage": 60,
+  "schema_version": 1,
+  "scope": "public redacted summary only",
+  "files": [
+    {
+      "bytes": 1578,
+      "path": "stage-60-muse-ops-contract-ack.md",
+      "sha256": "754ba3973703a5799630ed9c468d1f491cd2dda4dc04169b552590c9738b7794"
+    }
+  ]
+}
