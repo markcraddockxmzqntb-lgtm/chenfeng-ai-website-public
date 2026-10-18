@@ -1,0 +1,32 @@
+{
+  "stage": 64,
+  "date": "2026-10-19",
+  "schema_version": 1,
+  "scope": "public redacted summary only",
+  "status": [
+    "visibility-matrix-implemented",
+    "local-verified",
+    "real-platform-sampling-pending",
+    "production-publish-gated"
+  ],
+  "files": [
+    {
+      "path": "stage-64-geo-visibility-matrix.md",
+      "purpose": "Redacted GEO visibility matrix summary; no source, credentials, customer data, private evidence or production configuration."
+    }
+  ],
+  "local_checks": {
+    "geo_dashboard_tests": "19 passed",
+    "frontend_syntax": "passed",
+    "website_content_check": "passed",
+    "astro_build_pages": 34,
+    "chatgpt_observations": 1,
+    "answer_completion_rate": 1.0,
+    "brand_mention_rate": null,
+    "external_index_rate": null,
+    "official_citation_rate": null,
+    "desktop_sampling": "pending",
+    "mobile_sampling": "pending"
+  },
+  "production_publish_allowed": false
+}
