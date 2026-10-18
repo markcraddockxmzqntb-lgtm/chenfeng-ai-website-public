@@ -1,0 +1,11 @@
+{
+  "stage": 61,
+  "schema_version": 1,
+  "scope": "public redacted summary only",
+  "files": [
+    {
+      "path": "stage-61-muse-daily-ops-runner.md",
+      "purpose": "Describe the auditable Muse daily website operations command without source, credentials or private logs."
+    }
+  ]
+}
