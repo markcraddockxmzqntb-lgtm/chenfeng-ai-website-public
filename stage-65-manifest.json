@@ -1,0 +1,42 @@
+{
+  "stage": 65,
+  "date": "2026-10-19",
+  "schema_version": 1,
+  "scope": "public redacted summary only",
+  "status": [
+    "platform-catalog-verified",
+    "local-verified",
+    "real-platform-sampling-pending",
+    "production-publish-gated"
+  ],
+  "files": [
+    {
+      "path": "stage-65-geo-platform-catalog.md",
+      "purpose": "Redacted platform catalog verification summary; no source, credentials, customer data, private evidence or production configuration."
+    }
+  ],
+  "local_checks": {
+    "geo_dashboard_tests": "20 passed",
+    "frontend_syntax": "passed",
+    "website_content_check": "passed",
+    "astro_build_pages": 34,
+    "target_platforms": [
+      "豆包",
+      "DeepSeek",
+      "腾讯元宝",
+      "Kimi",
+      "ChatGPT",
+      "Gemini",
+      "Grok"
+    ],
+    "chatgpt_observations": 1,
+    "other_platforms": "pending",
+    "answer_completion_rate": 1.0,
+    "brand_mention_rate": null,
+    "external_index_rate": null,
+    "official_citation_rate": null,
+    "desktop_sampling": "pending",
+    "mobile_sampling": "pending"
+  },
+  "production_publish_allowed": false
+}
