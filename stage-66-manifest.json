@@ -1,0 +1,19 @@
+{
+  "stage": 66,
+  "generated_at": "2026-10-19",
+  "files": [
+    {
+      "path": "stage-66-geo-model-directory.md",
+      "bytes": 873,
+      "sha256": "4c3dc7045ffdc90ea97b32c303524ac7ddf25df922a16d825cee6e7b01a61e3c"
+    }
+  ],
+  "excludes": [
+    "core source",
+    "databases",
+    "raw observations",
+    "production configuration",
+    "credentials",
+    "customer data"
+  ]
+}
