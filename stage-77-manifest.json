@@ -1,0 +1,19 @@
+{
+  "stage": 77,
+  "generated_at": "2026-10-19",
+  "files": [
+    {
+      "path": "stage-77-quality-gate.md",
+      "purpose": "sanitized pre-deployment quality gate and evidence boundaries"
+    }
+  ],
+  "excludes": [
+    "core source",
+    "credentials",
+    "production configuration",
+    "customer data",
+    "raw model answers",
+    "server output",
+    "private receipts"
+  ]
+}
