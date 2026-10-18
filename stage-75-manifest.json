@@ -1,0 +1,19 @@
+{
+  "stage": 75,
+  "generated_at": "2026-10-19",
+  "files": [
+    {
+      "path": "stage-75-route-evidence.md",
+      "purpose": "sanitized route and release-gate summary"
+    }
+  ],
+  "excludes": [
+    "core source",
+    "databases",
+    "raw command output",
+    "production configuration",
+    "credentials",
+    "customer data",
+    "cookies"
+  ]
+}
