@@ -1,0 +1,20 @@
+{
+  "stage": 76,
+  "generated_at": "2026-10-19",
+  "files": [
+    {
+      "path": "stage-76-production-acceptance-matrix.md",
+      "purpose": "sanitized production acceptance and measurement gate summary"
+    }
+  ],
+  "excludes": [
+    "core source",
+    "databases",
+    "raw command output",
+    "production configuration",
+    "credentials",
+    "customer data",
+    "private work logs",
+    "private receipts"
+  ]
+}
