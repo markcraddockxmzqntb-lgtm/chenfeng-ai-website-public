@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "stage": 57,
+  "files": [
+    {
+      "path": "stage-57-content-operations.md",
+      "bytes": 2098,
+      "sha256": "7d21e1f522d5153b93c9da6220b6a95d0bcf9bb3b3d0fbe5ea36f7efdce6ed91"
+    }
+  ]
+}
