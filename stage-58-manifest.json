@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stage": 58,
+  "files": [
+    {
+      "path": "stage-58-muse-ops-readiness.md",
+      "bytes": 1473,
+      "sha256": "c5fcf594dcc76fa133e4a49351d016d73441c0b837bf58e40851f730ea124f59"
+    }
+  ],
+  "scope": "public redacted summary only"
+}
