@@ -1,0 +1,12 @@
+{
+  "stage": 59,
+  "schema_version": 1,
+  "scope": "public redacted summary only",
+  "files": [
+    {
+      "bytes": 2171,
+      "path": "stage-59-muse-daily-ops-local-verification.md",
+      "sha256": "d877d29f8f8f43784a0a445dca283e36bab09d2df001b0a4bce4a5c1b885a687"
+    }
+  ]
+}
