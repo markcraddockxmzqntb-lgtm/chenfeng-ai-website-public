@@ -1,0 +1,22 @@
+{
+  "stage": 62,
+  "date": "2026-10-19",
+  "schema_version": 1,
+  "scope": "public redacted summary only",
+  "status": [
+    "runner-installed",
+    "manual-acceptance-passed",
+    "scheduled-first-run-pending",
+    "production-publish-gated"
+  ],
+  "files": [
+    {
+      "path": "stage-62-muse-daily-ops-runner-acceptance.md",
+      "purpose": "Redacted acceptance record for Muse daily website operations; no source, credentials, customer data or private logs."
+    }
+  ],
+  "private_evidence_sha256": "4d669cfa166709b20691940690a068d3df37026b4aca4ee5b0472adfddc6c3df",
+  "scheduled_task": "geo-website-daily-ops",
+  "schedule": "09:23 Asia/Shanghai",
+  "production_publish_allowed": false
+}
