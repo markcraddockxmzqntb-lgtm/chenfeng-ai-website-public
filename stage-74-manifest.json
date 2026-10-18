@@ -1,0 +1,19 @@
+{
+  "stage": 74,
+  "generated_at": "2026-10-19",
+  "files": [
+    {
+      "path": "stage-74-runtime-map.md",
+      "purpose": "sanitized pre-deployment runtime status"
+    }
+  ],
+  "excludes": [
+    "core source",
+    "databases",
+    "raw observations",
+    "production configuration",
+    "credentials",
+    "customer data",
+    "cookies"
+  ]
+}
