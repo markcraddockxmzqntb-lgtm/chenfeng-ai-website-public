@@ -1,0 +1,25 @@
+{
+  "stage": 106,
+  "prepared_at": "2026-10-20T04:57:41+08:00",
+  "kind": "official-partner-entry-research",
+  "status": "researched_uncontacted",
+  "website_deployed": false,
+  "muse_review": "pending_at_preparation",
+  "github_readback": "pending_at_preparation",
+  "files": [
+    {
+      "path": "stage106-partner-entry-research.md",
+      "bytes": 4207,
+      "sha256": "da12219285ea80833cda2d6e5ea08dbfc168c3bb8d9001c4096e13a1e50e9342"
+    },
+    {
+      "path": "website-stage106-partner-research-20261020.md",
+      "bytes": 1149,
+      "sha256": "c2901ecb2cb68a5973aca9221b60a82480f6c73bb9c56ad111bc9997d9ddaf57"
+    }
+  ],
+  "manifest_self_hash": false,
+  "new_production_dependencies": false,
+  "partner_outreach_performed": false,
+  "new_acquisition_evidence": false
+}
