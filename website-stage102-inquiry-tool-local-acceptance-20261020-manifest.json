@@ -1,0 +1,11 @@
+{
+  "stage": 102,
+  "date": "2026-10-20",
+  "status": "local_acceptance_passed_not_deployed",
+  "summary": {
+    "path": "website-stage102-inquiry-tool-local-acceptance-20261020.md",
+    "bytes": 2281,
+    "sha256": "cb49edb4b707aaf05888d5cee19a442521622cefbd56ab85c4301b9eefa136dc"
+  },
+  "scope": "sanitized documentation only; core implementation and private evidence excluded"
+}
