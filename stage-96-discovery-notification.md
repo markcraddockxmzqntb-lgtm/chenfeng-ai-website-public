@@ -1,0 +1,9 @@
+# Stage 96 — Search discovery baseline and verified update notification
+
+On 2026-10-19, the production Astro website remained at release `entity-20261019-stage95`. The existing `www.chenfengai.cn` site was treated as a separate property and was not changed. In one desktop-browser baseline, the new apex website did not appear in the sampled Google, Bing or Baidu searches. The broad Google domain search mainly surfaced the existing `www` policy-matching site. These are query-specific observations, not proof that every search index is empty. The sample was not a mainland-China device or regional test.
+
+The apex server now hosts a narrowly scoped IndexNow ownership proof over HTTPS. All 36 canonical Chinese and English HTML URLs from the verified production sitemap were read back and matched the checked publication package by bytes and SHA-256 before one submission. The IndexNow endpoint returned HTTP 202: it received the notification and key verification remained pending. Running the same release again produced no request. The original website release, bilingual pages, private GEO dashboard, Agent entry point and chat service remained available. Eleven focused notification tests passed.
+
+Muse verified a private handoff package and installed the notification tool and existing 36-URL ledger in its private workspace. Its **existing** daily website/GEO task retains the 09:23 Asia/Shanghai schedule and sends a notification only after a newly published release passes its normal HTTPS readback. The first natural scheduled run with this addition is still awaiting observation. The proof value, private ledger, deployment configuration, source, raw search results and private receipts are excluded from this public repository.
+
+HTTP 202 does **not** establish crawling, search indexing, ranking, AI citation, qualified inquiries or sales. Those outcomes remain unverified and will be measured separately.

@@ -1,0 +1,18 @@
+{
+  "stage": 96,
+  "summary": {
+    "path": "stage-96-discovery-notification.md",
+    "bytes": 1921,
+    "sha256": "2ae35f716a6337cb750cf91852e4ec4c0725ba3ed1381436c704564031be9047"
+  },
+  "production_release": "entity-20261019-stage95",
+  "urls_notified": 36,
+  "indexnow_http_status": 202,
+  "indexnow_meaning": "received-key-validation-pending",
+  "duplicate_request_count": 0,
+  "search_indexed": null,
+  "ai_citation": null,
+  "muse_task": "geo-website-daily-ops",
+  "first_natural_run": "not-yet-observed",
+  "scope": "sanitized documentation only"
+}
