@@ -1,4 +1,17 @@
 # 塵風AI / Chenfeng AI · 官网与 GEO 公开协作记录
+
+## 免费询盘需求整理包 / Free inquiry workflow kit
+
+先把一个流程说清楚，再决定怎样用 AI。适合中国大陆及香港的外贸、跨境电商团队，包含中英一页需求简报、可填写交接表和三组虚构示例，无需注册。
+
+**[下载完整 ZIP / Download the kit](stage105-inquiry-workflow-kit.zip)** · [中文简报](stage105-inquiry-brief-zh.md) · [English brief](stage105-inquiry-brief-en.md) · [使用说明 / Guide](stage105-inquiry-kit-guide.md)
+
+Describe one process before discussing an AI pilot: inputs, output fields, approval points, available systems and open questions. Templates and fictional examples; no inbox or CRM connection is included. Keep completed copies privately.
+
+[官网流程简报 / 中文](https://chenfengai.cn/resources/workflow-brief/?utm_source=github&utm_medium=resource&utm_campaign=inquiry_kit_v1&utm_content=readme_zh) · [Online brief / English](https://chenfengai.cn/en/resources/workflow-brief/?utm_source=github&utm_medium=resource&utm_campaign=inquiry_kit_v1&utm_content=readme_en) · [伙伴转介说明 / Referral note](stage105-partner-referral-guide.md)
+
+当前运营信息以官网为准。最新资料包：[阶段105说明](website-stage105-inquiry-kit-20261020.md)；以下2026-10-17状态段保留为历史记录。资料包在GitHub公开不等于官网新版本部署，也不代表AI引用或获客效果。
+
 ## 联系方式 / Contact
 
 **马鞍山市尘风信息科技有限公司 · 塵風AI / Chenfeng AI**

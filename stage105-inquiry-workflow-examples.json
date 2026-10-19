@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "kind": "illustrative-workflow-examples",
+  "executable": false,
+  "customer_data": false,
+  "provider_calls": 0,
+  "notice": {
+    "zh-CN": "全部为虚构演示，不是客户记录、可运行软件、已交付系统或效果；未发送消息。",
+    "en": "All examples are fictional. They are not customer records, executable software, delivered systems or results. No messages were sent."
+  },
+  "examples": [
+    {
+      "id": "EXAMPLE-01",
+      "fictional": true,
+      "source_ref": "SYNTHETIC-INQUIRY-001",
+      "input_summary": {
+        "zh-CN": "询问示例产品A，200件，发往香港",
+        "en": "Example product A, 200 units, Hong Kong"
+      },
+      "expected_output": {
+        "known": {
+          "product": "example-product-a",
+          "quantity": 200,
+          "destination": {
+            "zh-CN": "香港",
+            "en": "Hong Kong"
+          }
+        },
+        "missing": [
+          "price",
+          "stock",
+          "delivery_date"
+        ],
+        "action": "handoff_for_review",
+        "duplicate_of": null,
+        "human_approval_required": true,
+        "outbound_message_sent": false,
+        "crm_updated": false
+      },
+      "handoff_note": {
+        "zh-CN": "整理来源与待确认项，交业务员",
+        "en": "hand over facts, source and open questions"
+      }
+    },
+    {
+      "id": "EXAMPLE-02",
+      "fictional": true,
+      "source_ref": "SYNTHETIC-INQUIRY-002",
+      "input_summary": {
+        "zh-CN": "询问产品目录但未说明规格",
+        "en": "asks for a catalog without a specification"
+      },
+      "expected_output": {
+        "known": {
+          "request": "catalog"
+        },
+        "missing": [
+          "specification",
+          "quantity",
+          "destination"
+        ],
+        "action": "prepare_clarification_draft",
+        "duplicate_of": null,
+        "human_approval_required": true,
+        "outbound_message_sent": false,
+        "crm_updated": false
+      },
+      "handoff_note": {
+        "zh-CN": "标记资料不足，准备澄清草稿",
+        "en": "flag missing information; prepare clarification draft"
+      }
+    },
+    {
+      "id": "EXAMPLE-03",
+      "fictional": true,
+      "source_ref": "SYNTHETIC-INQUIRY-001",
+      "input_summary": {
+        "zh-CN": "同一来源标识重复进入",
+        "en": "same source reference received again"
+      },
+      "expected_output": {
+        "known": {
+          "source_ref": "SYNTHETIC-INQUIRY-001"
+        },
+        "missing": [
+          "content_change_review"
+        ],
+        "action": "link_original_and_review_changes",
+        "duplicate_of": "EXAMPLE-01",
+        "human_approval_required": true,
+        "outbound_message_sent": false,
+        "crm_updated": false
+      },
+      "handoff_note": {
+        "zh-CN": "关联原记录，变化待复核；不新建对外发送",
+        "en": "link original; review changes; do not create a new outbound send"
+      }
+    }
+  ]
+}

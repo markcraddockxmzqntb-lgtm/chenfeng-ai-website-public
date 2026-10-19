@@ -1,0 +1,76 @@
+{
+  "stage": 105,
+  "prepared_at": "2026-10-20T04:36:40+08:00",
+  "kind": "bilingual-inquiry-document-kit",
+  "website_deployed": false,
+  "production_content_version_last_observed": "2026-10-19.2",
+  "muse_review": "pending_at_preparation",
+  "github_commit_readback": "pending_at_preparation",
+  "customer_zip": "stage105-inquiry-workflow-kit.zip",
+  "zip_members": [
+    "stage105-inquiry-kit-guide.md",
+    "stage105-inquiry-brief-zh.md",
+    "stage105-inquiry-brief-en.md",
+    "stage105-partner-referral-guide.md",
+    "stage105-inquiry-handoff-template.csv",
+    "stage105-inquiry-handoff-examples.csv",
+    "stage105-inquiry-workflow-examples.json"
+  ],
+  "files": [
+    {
+      "path": "stage105-inquiry-kit-guide.md",
+      "bytes": 5242,
+      "sha256": "cc815a8d89a6a4b5d7f220418225e1e7147d5de8ea29ff42ed6b61b71e9067ba"
+    },
+    {
+      "path": "stage105-inquiry-brief-zh.md",
+      "bytes": 2765,
+      "sha256": "28e86cf61c61cd41eddbfd9960071fcf927b7b5a9bfd0ddeddb7db6c395f9aa3"
+    },
+    {
+      "path": "stage105-inquiry-brief-en.md",
+      "bytes": 3162,
+      "sha256": "05742011d35cace84db9868bb2e92d1946d148cfd5778a79c7d02e04c71c54c5"
+    },
+    {
+      "path": "stage105-partner-referral-guide.md",
+      "bytes": 3586,
+      "sha256": "098bbd4e1830e5d90d97c447ea10f318e4a08fa9572c09256b0253d84ad65062"
+    },
+    {
+      "path": "stage105-inquiry-handoff-template.csv",
+      "bytes": 278,
+      "sha256": "d4c8182491906dc31db15cd0cc470ebb82eb4374c417205b796a4a1c713f7bd7"
+    },
+    {
+      "path": "stage105-inquiry-handoff-examples.csv",
+      "bytes": 1667,
+      "sha256": "e964baea3f15571661094428b9294edbd2dd34a8aee8b60f37aeb19d9b04087c"
+    },
+    {
+      "path": "stage105-inquiry-workflow-examples.json",
+      "bytes": 3011,
+      "sha256": "6f435777a81550562ac3a0235784450fd6401de8aa88a66387ad92b917626e43"
+    },
+    {
+      "path": "stage105-inquiry-workflow-kit.zip",
+      "bytes": 11593,
+      "sha256": "1863cba6c624dcb2bbd656f20cdcd367b4c23d2a97f08741925afdc8d1e1e7e9"
+    },
+    {
+      "path": "website-stage105-inquiry-kit-20261020.md",
+      "bytes": 2782,
+      "sha256": "5711fe48f5cb7fb37cf369bee617a5ecc2d732e6e0503b65116c18d4c22c9f17"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6608,
+      "sha256": "612160fee9297007ece11e9c6cedfa8c3d0b0e543a256941d73ef0c3d25d2808"
+    }
+  ],
+  "manifest_self_hash": false,
+  "customer_data": false,
+  "provider_calls": 0,
+  "new_recurring_cost": false,
+  "partner_outreach_performed": false
+}
