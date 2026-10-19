@@ -1,0 +1,21 @@
+{
+  "stage": 83,
+  "generated_at": "2026-10-19",
+  "files": [
+    {
+      "path": "stage-83-nginx-server-name-audit.md",
+      "purpose": "sanitized summary of server-name conflict evidence and release blockers"
+    }
+  ],
+  "excludes": [
+    "server addresses",
+    "production filesystem paths and upstreams",
+    "credentials",
+    "core source",
+    "customer data",
+    "raw command output",
+    "private server output and receipts"
+  ],
+  "production_publish_allowed": false,
+  "status": "server-name-conflicts-verified; route-matrix-incomplete; legacy-callback-unknown; production-publish-gated"
+}
