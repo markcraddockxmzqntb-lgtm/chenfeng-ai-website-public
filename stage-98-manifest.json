@@ -1,0 +1,17 @@
+{
+  "stage": 98,
+  "summary": {
+    "path": "stage-98-search-discovery.md",
+    "bytes": 1094,
+    "sha256": "8ed344456545a6069eea0df2019ad62a9b8c2dc3454d1188cc6e876da18710d7"
+  },
+  "property": "https://chenfengai.cn/",
+  "homepage_indexed_at_observation": true,
+  "sitemap_search_console_status": "could-not-fetch",
+  "sitemap_valid_xml_url_count": 36,
+  "verified_googlebot_sitemap_http_status": 200,
+  "ai_citation": null,
+  "qualified_inquiries": null,
+  "production_release": "stage97-attribution-20261019",
+  "scope": "sanitized documentation only"
+}
