@@ -1,0 +1,12 @@
+{
+  "stage": 100,
+  "summary": {
+    "path": "stage-100-geo-workspace-auth.md",
+    "bytes": 1130,
+    "sha256": "a736cbe8da57b4cbadf1a5b19eb742f74780d26b23aabd8e349699d014826654"
+  },
+  "scope": "sanitized documentation only",
+  "public_website_release_changed": false,
+  "new_search_or_ai_indexing_proven": false,
+  "credentials_or_sessions_included": false
+}
