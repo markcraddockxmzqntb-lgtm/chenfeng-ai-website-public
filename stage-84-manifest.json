@@ -1,0 +1,21 @@
+{
+  "stage": 84,
+  "date": "2026-10-19",
+  "production_publish_allowed": false,
+  "files": [
+    {
+      "path": "stage-84-https-and-ops-validation.md",
+      "bytes": 1863,
+      "sha256": "bfc931e373518954a2fc20f1c287b8b999f82718021af6b55cccf71f6155bcf5"
+    }
+  ],
+  "status": "https-repaired; renewal-configured; Muse-export-inspected; website-publish-gated",
+  "excluded": [
+    "core code",
+    "keys",
+    "production paths",
+    "server logs",
+    "customer data",
+    "private evidence"
+  ]
+}
