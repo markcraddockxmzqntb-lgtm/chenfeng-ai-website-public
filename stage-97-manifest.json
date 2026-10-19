@@ -1,0 +1,20 @@
+{
+  "stage": 97,
+  "summary": {
+    "path": "stage-97-attribution-release.md",
+    "bytes": 2423,
+    "sha256": "79d139940a5b26728a44904b63a737fcc94f8c304f5e689287e6a912dca13f52"
+  },
+  "production_release": "stage97-attribution-20261019",
+  "public_files_verified": 48,
+  "html_pages": 36,
+  "snapshot_metrics_status": "passed",
+  "historical_attribution_groups": 4,
+  "model_calls_this_stage": 0,
+  "first_natural_run": "pending",
+  "scheduled_next_run": "2026-10-20 09:23 Asia/Shanghai",
+  "search_indexed": null,
+  "ai_citation": null,
+  "qualified_inquiries": null,
+  "scope": "sanitized documentation only"
+}
