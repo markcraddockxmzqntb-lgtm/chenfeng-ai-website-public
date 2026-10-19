@@ -1,0 +1,18 @@
+{
+  "stage": 92,
+  "summary": {
+    "path": "stage-92-muse-first-content-publication.md",
+    "bytes": 1521,
+    "sha256": "b68940a34b1f4a5573f1de9f7565c2b45e5f28a82f975cf225310e851145b9af"
+  },
+  "public_files_verified": 48,
+  "html_pages": 36,
+  "internal_references": 1388,
+  "muse_first_publication": "verified",
+  "existing_schedule_updated": true,
+  "manual_acceptance": "succeeded",
+  "first_scheduled_run": "not-yet-observed",
+  "ai_indexing": "not-measured",
+  "customer_acquisition": "not-demonstrated",
+  "scope": "sanitized progress documents only"
+}

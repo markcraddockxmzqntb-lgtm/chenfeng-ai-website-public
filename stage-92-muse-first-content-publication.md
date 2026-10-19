@@ -1,0 +1,7 @@
+# Stage 92 — Muse production content operation verified
+
+Muse published one reviewed Chinese/English Insights pair, “inquiry-pilot-three-jobs”, on the official website. Its signed upload and activation completed successfully. An independent external HTTPS readback matched all 48 public files to their byte counts and SHA256 values, and validated 36 HTML pages and 1,388 internal references. Final article sources and a nine-file private evidence archive were independently checked. This publication made no paid model calls.
+
+The existing daily website operation task was updated in place, retaining its identity, enabled state, ownership and 09:23 Asia/Shanghai schedule. It now uses the current Astro source and checked production publishing workflow, including editorial review, bilingual pairing, build checks and rollback protection. A scheduler-triggered manual acceptance run succeeded without publishing the same content twice. The next scheduled automatic run is 20 October 2026 at 09:23 China time; it has not happened yet.
+
+The user approved persistent access to the official domain and its subdomains for Muse's website operation. Work remains limited to the owned website. Daily GEO dashboard analysis and acquisition planning are being handed over separately. GPT chat remains pay-as-you-go without a website monthly cap. Publishing and technical crawlability do not demonstrate AI indexing, citations or customer acquisition. Original receipts, source, configuration and credentials remain private.
