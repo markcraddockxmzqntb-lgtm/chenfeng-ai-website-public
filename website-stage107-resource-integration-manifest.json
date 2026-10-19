@@ -1,0 +1,28 @@
+{
+  "stage": 107,
+  "prepared_at": "2026-10-20T05:44:33+08:00",
+  "kind": "bilingual_resource_entry_and_download_telemetry",
+  "status": "local_candidate_passed_production_unchanged",
+  "website_deployed": false,
+  "muse_review": "pending_at_preparation",
+  "github_readback": "recorded_separately_after_commit",
+  "new_production_dependencies": false,
+  "customer_acquisition_evidence": false,
+  "reviewed_download_artifact": {
+    "path": "/downloads/inquiry-workflow-kit-v1.zip",
+    "bytes": 11593,
+    "sha256": "1863cba6c624dcb2bbd656f20cdcd367b4c23d2a97f08741925afdc8d1e1e7e9"
+  },
+  "files": [
+    {
+      "path": "stage107-resource-integration.md",
+      "bytes": 1996,
+      "sha256": "7c21cde08e4bba5e5e67950ee5eabad9220d76dbb11ee0f8a50343c0d18712c9"
+    },
+    {
+      "path": "website-stage107-resource-integration-20261020.md",
+      "bytes": 835,
+      "sha256": "7fbbb35c20256b97db501c2c31de81cff1a9482c842f3417f2375e1df47e7885"
+    }
+  ]
+}
