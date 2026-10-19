@@ -1,0 +1,14 @@
+{
+  "change_id": "customer-discovery-decision-20261020",
+  "summary": {
+    "path": "customer-discovery-decision-20261020.md",
+    "bytes": 1946,
+    "sha256": "f845718f9ada52dd3b72144fbc2c5a0de62e90b2911deac7be2fca1d762ed75e"
+  },
+  "decision": {
+    "dify_included": false,
+    "new_model_calls": false,
+    "approach": "existing Astro and Python services with Muse review"
+  },
+  "scope": "sanitized documentation only; implementation and private evidence remain private"
+}
