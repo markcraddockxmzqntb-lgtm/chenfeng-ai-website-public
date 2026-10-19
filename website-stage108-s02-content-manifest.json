@@ -1,0 +1,19 @@
+{
+  "stage": "108-S02",
+  "prepared_at": "2026-10-20T07:30:00+08:00",
+  "kind": "controlled_bilingual_content_drafts",
+  "status": "draft_pending_muse_review",
+  "website_deployed": false,
+  "muse_review": "pending",
+  "current_source_recheck": "pending",
+  "production_changed": false,
+  "new_production_dependencies": false,
+  "customer_acquisition_evidence": false,
+  "files": [
+    {
+      "path": "stage108-s02-bilingual-content-drafts.md",
+      "bytes": 2447,
+      "sha256": "a4a9584fa4acbbb9692f02fac8ecfb006d027d07838ce709df4785bd72bfa0f8"
+    }
+  ]
+}
