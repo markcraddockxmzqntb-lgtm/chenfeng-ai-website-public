@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stage": 85,
+  "production_publish_allowed": false,
+  "new_website_live": false,
+  "muse_own_ssh_verified": false,
+  "files": [
+    {
+      "path": "stage-85-release-and-access-rehearsal.md",
+      "bytes": 1784,
+      "sha256": "720dd1239cd65586a76b2b7a49eb2952dd35d46d722682bb2b501ed102995629"
+    }
+  ],
+  "scope": "Sanitized documentation only; excludes core code, credentials, configuration, SSH grants and raw receipts."
+}
