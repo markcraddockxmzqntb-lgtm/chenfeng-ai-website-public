@@ -1,0 +1,16 @@
+{
+  "stage": 94,
+  "summary": {
+    "path": "stage-94-consumer-platform-baseline.md",
+    "bytes": 1260,
+    "sha256": "fa61cc0fe1057cf1853955aa19abc9ade887be950a007a8335559378e9b35ff3"
+  },
+  "unique_platforms_checked": 7,
+  "complete_answers": 4,
+  "platforms_with_complete_answers": 3,
+  "production_import": "verified",
+  "region": null,
+  "device": "desktop",
+  "official_citation_rate": null,
+  "scope": "sanitized documentation only; raw evidence private"
+}

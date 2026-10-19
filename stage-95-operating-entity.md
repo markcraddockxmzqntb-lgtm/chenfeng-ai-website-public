@@ -1,0 +1,7 @@
+# Stage 95 — Current operating entity published and verified
+
+The owner confirmed that 马鞍山市尘风信息科技有限公司 is registered and should operate the website now. The 塵風AI / Chenfeng AI brand and official domain remain in use. Chinese and English About pages, every page footer, Organization legalName, FAQ, the public service catalog and llms.txt now consistently connect the brand to this entity. English content retains the registered Chinese name. The licence photograph and additional registration details were not published.
+
+Muse used the established checked publishing workflow. Independent strict-TLS readback matched all 48 public files by bytes and SHA256, validating 36 HTML pages and 1,390 internal references. Thirteen relevant tests passed. Two real GPT receptionist requests, one per language, returned the correct legal name and human-contact details. Two public Agent queries also returned the new identity and current content version. This verifies usable publication and responses, not improved AI discovery or acquisition.
+
+Muse's existing daily operation task was updated in place, preserving its ownership, enabled state and 09:23 Asia/Shanghai schedule. Its first natural scheduled run after the update is still awaiting observation. Existing Insights were preserved. Source, configuration, credentials, raw conversation evidence and the licence image remain private. No new production account or subscription was added.

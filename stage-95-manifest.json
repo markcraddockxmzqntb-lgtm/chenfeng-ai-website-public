@@ -1,0 +1,15 @@
+{
+  "stage": 95,
+  "summary": {
+    "path": "stage-95-operating-entity.md",
+    "bytes": 1468,
+    "sha256": "adff2ef29d00094b290564b5ce3bf90704b3d23f1380773080dc14814f541b70"
+  },
+  "public_files_verified": 48,
+  "html_pages": 36,
+  "real_gpt_requests": 2,
+  "real_agent_queries": 2,
+  "scope": "sanitized documentation only",
+  "first_natural_scheduled_run": "not-yet-observed",
+  "ai_discovery_effect": "not-yet-measured"
+}
