@@ -1,0 +1,17 @@
+{
+  "stage": 101,
+  "date": "2026-10-19",
+  "status": "candidate-handed-to-Muse; production-verification-pending",
+  "latest_verified_release": "stage97-attribution-20261019",
+  "html_pages": 36,
+  "public_files": 48,
+  "targeted_tests_passed": 51,
+  "search_sitemap_discovered_pages": 36,
+  "ai_natural_citation_rate": null,
+  "muse_natural_daily_run_verified": false,
+  "file": {
+    "path": "stage-101-brand-alias.md",
+    "bytes": 1612,
+    "sha256": "78e0824d55de170ab66dd26856e00377612256d93dbf51db8483c78af67e4a69"
+  }
+}

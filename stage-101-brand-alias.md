@@ -1,0 +1,7 @@
+# Stage 101: simplified brand alias
+
+On 2026-10-19, the reviewed Chenfeng AI site candidate linked the simplified Chinese spelling 尘风AI to the existing brand 塵風AI / Chenfeng AI, the confirmed operating entity 马鞍山市尘风信息科技有限公司, and https://chenfengai.cn/. The established public brand and legal entity did not change. The candidate updates organization and website structured data, bilingual About pages, FAQ, llms.txt and the read-only service catalog. Duplicate Organization blocks on the two homepages were removed.
+
+Local checks passed: content preflight, 51 targeted tests, 36 HTML pages, 48 public files and 1,390 internal links. The signed publishing candidate passed strict package validation; no model call or customer event was generated. A private source-and-release handoff was delivered to Muse for the existing signed HTTPS publisher. Public code, secrets, customer data, source archives and private receipts are excluded from this repository.
+
+This is a prepared candidate, not a production publication receipt. The latest independently verified static release before this handoff remains stage97-attribution-20261019. ChatGPT's earlier natural discovery sample did not find the site; after the URL was supplied, it read and cited homepage and services pages. These are distinct findings, not a platform-wide citation rate. Google Search Console processed the sitemap and discovered 36 pages; only the homepage has separate indexing evidence. The first natural run of Muse's existing daily 09:23 Asia/Shanghai task is due 2026-10-20 and needs its actual receipt.
