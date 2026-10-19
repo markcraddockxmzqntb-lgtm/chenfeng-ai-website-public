@@ -1,0 +1,18 @@
+{
+  "stage": 101,
+  "status": "published-and-independently-https-verified",
+  "release": "stage101-brand-alias-20261019",
+  "previous_release": "stage97-attribution-20261019",
+  "public_files_verified": 48,
+  "html_pages": 36,
+  "internal_links_checked": 1390,
+  "muse_first_natural_run_verified": false,
+  "ai_natural_citation_rate": null,
+  "qualified_customer_inquiries": null,
+  "scope": "sanitized documentation only",
+  "file": {
+    "path": "stage-101-brand-alias-production.md",
+    "bytes": 1737,
+    "sha256": "479c70eb8db0cab60a8fa1cb4ef8d43c2d434f63df190dba82cb1a6577ed1474"
+  }
+}
