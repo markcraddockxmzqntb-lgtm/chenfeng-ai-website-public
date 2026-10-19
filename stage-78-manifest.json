@@ -1,0 +1,21 @@
+{
+  "stage": 78,
+  "generated_at": "2026-10-19",
+  "files": [
+    {
+      "path": "stage-78-route-audit.md",
+      "purpose": "sanitized summary of route-audit evidence limits and release blockers"
+    }
+  ],
+  "excludes": [
+    "server addresses",
+    "production filesystem paths and upstreams",
+    "credentials",
+    "core source",
+    "customer data",
+    "raw model responses",
+    "private server output and receipts"
+  ],
+  "production_publish_allowed": false,
+  "status": "route-fragments-partially-verified; legacy-callback-unknown; production-publish-gated"
+}
