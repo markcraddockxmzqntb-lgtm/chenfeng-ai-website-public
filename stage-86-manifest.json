@@ -1,0 +1,14 @@
+{
+  "stage": 86,
+  "summary": {
+    "path": "stage-86-agent-runtime-and-refresh.md",
+    "bytes": 1588,
+    "sha256": "af400c326e0ae4f030a0b6f60a61d1d20d565b8e8cc0ae888336043d5815860e"
+  },
+  "production_publish_allowed": false,
+  "new_website_live": false,
+  "agent_public_https_verified": false,
+  "muse_own_ssh_verified": false,
+  "model_calls_this_stage": 0,
+  "public_scope": "sanitized progress documentation only"
+}
