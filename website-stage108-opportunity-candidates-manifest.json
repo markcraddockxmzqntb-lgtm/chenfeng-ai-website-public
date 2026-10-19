@@ -1,0 +1,17 @@
+{
+  "stage": 108,
+  "prepared_at": "2026-10-20T06:36:00+08:00",
+  "kind": "website_audit_opportunity_candidates",
+  "status": "local_verified_muse_design_passed_with_recommendations_production_unchanged",
+  "website_deployed": false,
+  "muse_review": "design_passed_with_improvement_recommendations",
+  "new_production_dependencies": false,
+  "customer_acquisition_evidence": false,
+  "files": [
+    {
+      "path": "stage108-website-opportunity-candidates.md",
+      "bytes": 2733,
+      "sha256": "947353d6ef297fb0e6e29c5504a98a2c73b3f630372660c50eb965561cc4d436"
+    }
+  ]
+}
