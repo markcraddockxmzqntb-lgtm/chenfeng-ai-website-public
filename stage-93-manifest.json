@@ -1,0 +1,20 @@
+{
+  "stage": 93,
+  "summary": {
+    "path": "stage-93-private-geo-muse-takeover.md",
+    "bytes": 2174,
+    "sha256": "bf9c38e2e1d9744232decdb85367e7a792dd8ec88090b320bd7f626077ec5e15"
+  },
+  "private_dashboard": "production-verified",
+  "muse_signed_read_report_readback": "verified",
+  "existing_daily_task": "updated-and-manually-accepted",
+  "snapshot_timer_actual_trigger": "verified",
+  "backup_report_count": 3,
+  "measurement_window": "rolling-seven-days",
+  "scheduled_first_run": "not-yet-observed",
+  "paid_model_calls_this_stage": 0,
+  "consumer_platform_observations": 0,
+  "ai_indexing": "unknown",
+  "customer_acquisition": "not-demonstrated",
+  "scope": "sanitized progress documents only"
+}
