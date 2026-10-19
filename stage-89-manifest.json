@@ -1,0 +1,15 @@
+{
+  "stage": 89,
+  "summary": {
+    "path": "stage-89-muse-authenticated-handshake.md",
+    "bytes": 1798,
+    "sha256": "c2d63d3392174ca8d9810f98d6845f3c3c76b9610266f2e532d34d6ca8836613"
+  },
+  "muse_signed_https_status": 200,
+  "server_signature_verification": "pass",
+  "new_website_live": false,
+  "activation_allowed": false,
+  "muse_upload_and_guard_acceptance": "pending",
+  "model_calls": 0,
+  "scope": "sanitized progress documentation only"
+}
