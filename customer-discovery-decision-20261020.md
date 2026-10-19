@@ -7,7 +7,7 @@ The goal is to help mainland China and Hong Kong foreign-trade and cross-border 
 ## Chosen approach
 
 - Reuse the existing Astro website, Python evidence and rules services, GEO workbench, and Muse review and publishing process.
-- Do not add Dify, new Dify workflows, or model calls to this customer-discovery phase. The existing website GPT receptionist is a separate feature and is unchanged.
+- Use deterministic rules and human review for the first tool trial. The existing website GPT receptionist remains a separate feature.
 - Start with evidence-backed procurement-question pages, one useful rule-based inquiry-workflow self-check, a public-safe resource, and a trackable referral path. Keep customer contact optional until the visitor has received the tool's result.
 - Route voluntary inquiries through the existing sales handoff after its real interface and privacy requirements are verified.
 
