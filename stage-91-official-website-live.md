@@ -1,0 +1,9 @@
+# Stage 91 — bilingual website live on the official domain
+
+The new Astro website is live at https://chenfengai.cn/ with its English edition at https://chenfengai.cn/en/. Muse used its existing signing identity to upload the checked candidate. The server verified the staged release before the homepage switch, retained a rollback backup and preserved existing application routes. Four empty legacy callback transport checks and the existing sales health check passed; transport preservation is not an authentication-security claim.
+
+An independent external HTTPS readback verified all 46 public files, 34 HTML pages and 1,298 internal references against the checked release. Canonical links, language alternates, robots, sitemap, both RSS feeds, llms.txt and the public service catalog passed release validation. The public Agent Card exposes eight read-only capabilities; eight bilingual catalog queries matched source fields, and the Agent process refreshed onto the actual production release.
+
+The public chat interface completed two real Chinese and two real English model turns, including contextual follow-up questions and correct contact details. WeChat copying passed. Desktop and a 390 by 844 browser viewport were inspected; this does not represent physical-phone or AI-platform mobile sampling. A browser-only injected failure retained the human contact controls. Eleven validation events were removed and are not counted as customers. Chat remains normal pay-as-you-go without a website monthly cap.
+
+Muse's first production editorial run, its unattended network permission and the private GEO dashboard deployment remain separate work. No claim is made that an AI platform has indexed or recommended the site, or that a customer has been acquired. Only this sanitized progress note and its manifest are public; source, configuration, credentials and original receipts remain private.

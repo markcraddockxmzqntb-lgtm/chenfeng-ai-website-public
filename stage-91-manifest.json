@@ -1,0 +1,18 @@
+{
+  "stage": 91,
+  "summary": {
+    "path": "stage-91-official-website-live.md",
+    "bytes": 1900,
+    "sha256": "7d8af04066d75e60f3e68813e627a7638d75908c145a7306e78cad72164cdd38"
+  },
+  "new_website_live": true,
+  "public_files_verified": 46,
+  "html_pages": 34,
+  "agent_bilingual_groups": 8,
+  "real_public_chat_turns": 4,
+  "gpt_monthly_cap_cny": null,
+  "ai_indexing": "not-yet-measured",
+  "customer_acquisition": "not-demonstrated",
+  "muse_unattended_publishing": "pending",
+  "scope": "sanitized progress documents only"
+}
