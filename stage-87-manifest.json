@@ -1,0 +1,13 @@
+{
+  "stage": 87,
+  "summary": {
+    "path": "stage-87-signed-publishing-transport.md",
+    "bytes": 1532,
+    "sha256": "68f6b607906d0ad1c5ed9c070467f32712e17f813385ff69feffbaf9adee39a2"
+  },
+  "production_publish_allowed": false,
+  "new_website_live": false,
+  "muse_signed_https_acceptance": "pending; initial format rejection and subsequent network timeout",
+  "model_calls_this_stage": 0,
+  "public_scope": "sanitized progress documentation only"
+}
