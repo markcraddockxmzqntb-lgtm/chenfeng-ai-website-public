@@ -1,0 +1,16 @@
+{
+  "stage": 88,
+  "summary": {
+    "path": "stage-88-production-receptionist-backend.md",
+    "bytes": 1883,
+    "sha256": "2cba30eedda32f5d4202b2c2adb0ed5b0d58160869d784185bbf8d6ae7193821"
+  },
+  "production_publish_allowed": false,
+  "new_website_live": false,
+  "server_real_chat_requests": 4,
+  "all_chat_http200": true,
+  "public_https_chat_verified": false,
+  "monthly_cap_cny": null,
+  "actual_cost_cny": null,
+  "public_scope": "sanitized progress documentation only"
+}
