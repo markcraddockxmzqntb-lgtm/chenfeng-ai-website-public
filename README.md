@@ -1,1 +1,70 @@
 # 塵風AI / Chenfeng AI · 官网与 GEO 公开协作记录
+## 联系方式 / Contact
+
+**马鞍山市尘风信息科技有限公司 · 塵風AI / Chenfeng AI**
+
+- 中文官网 / Chinese website：https://chenfengai.cn/
+- English website：https://chenfengai.cn/en/
+- 微信 / WeChat：h335327552（备注：AI 智能体咨询）
+- WhatsApp：[+86 18395556720](https://wa.me/8618395556720)
+
+当前官网已上线；以下 2026-10-17 小节保留为历史阶段记录。
+
+
+中英双语官网用于介绍 AI 智能体、工作流、Skill、插件与 MCP 集成服务，主要面向外贸及跨境电商团队，以微信/WhatsApp 咨询为联系入口。
+
+本仓库包含经过整理的项目阶段记录、内容模板、候选问题映射和视觉预览，供 Codex 与 Muse 按版本共享进展。它是公开资料仓库，不包含完整应用源码或生产部署包。
+
+## 当前状态 · 2026-10-17
+
+- Astro 7.4.0 定制官网已完成 30 个中英页面的本地构建与验收。
+- 已完成服务详情、三组匿名方案/演示案例、资源中心、FAQ、关于与联系方式。
+- 首屏分层、滚动显现、卡片光晕、悬停和按钮反馈已实现；支持减少动态效果与手动关闭。
+- 阶段 06 和 07 已完成 Codex 本地验收及 Muse 内容复核；双方各自执行范围见阶段摘要。
+- 独立检测后台已完成本地私有试用：真实扫描官网文件、页面筛选、版本历史与证据导出。仅本地，不是生产后台。
+- Muse已返回阶段09针对性复核，报告其标准库扫描、临时本地鉴权/导出与恢复检查通过；未运行pytest或独立真实浏览器检查，执行范围见阶段摘要。
+- 机器可读服务目录已完成本地构建和真实读取，与服务/匿名案例同源；只读公开信息，见[目录契约](PUBLIC-CATALOG.md)。
+- 阶段11视觉精修已完成本地浏览器验收，首屏、卡片与流程动态、手机和减少动态通过；见[阶段11](stage-11-motion-polish.md)。
+- 阶段12增加工作流背景分层、桌面轻微视差、按钮扫光与手机降级，已通过本地浏览器验收；见[阶段12](stage-12-motion-polish.md)及[视觉维护规则](VISUAL-MAINTENANCE.md)。
+- 阶段15取得一条真实 ChatGPT 中文访客模式样本；回答完成但未出现品牌字面提及，来源捕获不完整且一条来源页面显示 404。该样本仅证明一次观测，不计入有效推荐、官网引用或咨询率；见[阶段15真实回答摘要](stage-15-answer-evidence.md)。
+- 阶段16完成本地实施复核：Astro 构建 30 页通过，中文首页 360px 与英文服务页 390px 无横向溢出，微信复制和 WhatsApp 入口可用；见[阶段16实施摘要](stage-16-implementation.md)。
+- 正式官网尚未部署。国内外 AI 消费端持续采样、生产后台与托管、GPT 接待与 A2A 实际交互尚未完成。
+
+公开文档与截图不证明上线、搜索索引、AI 引用、有效咨询或成交。这里没有用于部署的正式域名，也不提供虚构的收录概率。
+
+## 阅读顺序
+
+1. [阶段 01](stage-01-research.md) → [02](stage-02-prototype.md) → [03](stage-03-browser.md) → [04](stage-04-resource.md) → [05](stage-05-release.md) → [06](stage-06-astro-visual.md) → [07](stage-07-resources.md) → [08](stage-08-public-sync.md) → [09](stage-09-local-dashboard.md) → [10](stage-10-agent-catalog.md) → [11](stage-11-motion-polish.md) → [12](stage-12-motion-polish.md) → [13](stage-13-versioned-audit.md) → [14](stage-14-a2a-local.md) → [15真实回答摘要](stage-15-answer-evidence.md) → [16实施摘要](stage-16-implementation.md)。
+2. [后续路线](ROADMAP.md)与[公开范围](PUBLICATION-POLICY.md)。
+3. [内容维护规则](CONTENT-MAINTENANCE.md)、[中文简报](workflow-brief.zh.md)、[English brief](workflow-brief.en.md)。
+4. 固定候选问题 `question-baseline.v1.json` 与独立探索问题 `question-exploration.v1.json`；均未测量，不是热词或真实流量数据。
+
+首次提交为历史阶段摘要的集中补传，远端提交使用实际同步时间，不代表每一历史阶段当时已经上传。阶段08/09及后续阶段以实际提交和变更记录继续同步。
+
+## 视觉预览
+
+截图为本地官网预览，没有客户原始材料或身份信息。
+
+![官网桌面首页](home-desktop-preview.png)
+
+![官网手机首页](home-mobile-preview.png)
+
+## 独立后台本地试用
+
+图中为真实官网文件扫描结果；未知的AI引用、咨询与费用不填零。后台核心与数据不在本仓库。
+
+![后台桌面预览](dashboard-desktop-preview.png)
+
+![后台手机预览](dashboard-mobile-preview.png)
+
+阶段13后台已补检测版本选择、目录事实检查及14题快照筛选；[说明](stage-13-versioned-audit.md)。页面覆盖不代表AI引用或获客。
+
+![问题覆盖预览](dashboard-coverage-preview.png)
+
+阶段14已验证[A2A公开资料本机查询](stage-14-a2a-local.md)与官方参考客户端兼容；未验证外部Agent、自然发现或生产。
+
+阶段16的匿名视觉截图：
+
+![英文服务页 390px](stage-16-en-services-390.png)
+
+![中文首页 360px](stage-16-zh-home-360.png)
