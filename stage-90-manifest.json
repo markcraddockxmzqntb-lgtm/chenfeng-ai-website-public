@@ -1,0 +1,15 @@
+{
+  "stage": 90,
+  "summary": {
+    "path": "stage-90-combined-route-verification.md",
+    "bytes": 1617,
+    "sha256": "40b5b79b5d5088ac9aa98d24f1e8b77f4a046549cead4ec82edace56a450b2db"
+  },
+  "static_files_verified": 46,
+  "agent_bilingual_groups_verified": 8,
+  "legacy_empty_transport_checks": 4,
+  "model_calls": 0,
+  "new_website_live": false,
+  "muse_authenticated_publishing": "unresolved",
+  "scope": "sanitized progress documentation only"
+}
