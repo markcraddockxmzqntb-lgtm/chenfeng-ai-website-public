@@ -1,0 +1,18 @@
+{
+  "stage": 99,
+  "summary": {
+    "path": "stage-99-sitemap-processed.md",
+    "bytes": 758,
+    "sha256": "6cfbca25bc01e7b3059f41fcda5e3298cb5f51a5126d55153f14598156950fe6"
+  },
+  "property": "https://chenfengai.cn/",
+  "sitemap_status": "processed-successfully",
+  "discovered_pages": 36,
+  "page_indexing_report": "processing-data",
+  "other_pages_indexed_count": null,
+  "second_submission": false,
+  "ai_citation": null,
+  "qualified_inquiries": null,
+  "production_release": "stage97-attribution-20261019",
+  "scope": "sanitized documentation only"
+}
