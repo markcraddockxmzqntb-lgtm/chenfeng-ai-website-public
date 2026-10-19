@@ -1,0 +1,13 @@
+{
+  "stage": 103,
+  "date": "2026-10-20",
+  "status": "production-candidate-verified-not-deployed",
+  "production_changed": false,
+  "files": [
+    {
+      "path": "website-stage103-inquiry-tool-release-preparation-20261020.md",
+      "bytes": 1912,
+      "sha256": "faf67377fd29b75e7fd73d97a5db67fbd42f39819d1f74fac5617e4b2e23a9ea"
+    }
+  ]
+}
