@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stage": 82,
+  "date": "2026-10-19",
+  "title": "Nginx listen fragment and route query boundary",
+  "status": "listen-fragment-verified; route-query-incomplete; production-publish-gated",
+  "production_publish_allowed": false,
+  "public_files": [
+    "stage-82-listen-route-audit.md"
+  ],
+  "excluded": [
+    "core_source",
+    "credentials",
+    "private_customer_materials",
+    "server_paths",
+    "raw_command_output",
+    "production_config"
+  ]
+}
