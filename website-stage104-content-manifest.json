@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "stage": 104,
+  "date": "2026-10-20",
+  "status": "draft_editorial_review_pending",
+  "deployed": false,
+  "production_changed": false,
+  "new_external_dependency": false,
+  "model_calls": 0,
+  "daily_task_changed": false,
+  "summary": {
+    "file": "website-stage104-buyer-questions-20261020.md",
+    "bytes": 3148,
+    "sha256": "fe0ecb576538198c29d833ea1692d159c1a92969d16abe47333a6815c99edb2d"
+  },
+  "articles": [
+    {
+      "file": "stage104-en-ai-workflow-cost-maintenance.md",
+      "bytes": 4280,
+      "sha256": "8a65c2194b2de0ac7d04432b5b33d3c7b10dcffaf431d4fa0295fb41808d2335",
+      "locale": "en",
+      "slug": "ai-workflow-cost-maintenance",
+      "draft": true,
+      "intended_source": "website/src/content/insights/en/ai-workflow-cost-maintenance.md",
+      "action": "new_article",
+      "base_source": null
+    },
+    {
+      "file": "stage104-en-inquiry-pilot-three-jobs.md",
+      "bytes": 4113,
+      "sha256": "4463d1773cbbaabe10748a09b8d89fcf076749e384c3d4ad2db8bd9d9d43b58d",
+      "locale": "en",
+      "slug": "inquiry-pilot-three-jobs",
+      "draft": true,
+      "intended_source": "website/src/content/insights/en/inquiry-pilot-three-jobs.md",
+      "action": "revise_existing",
+      "base_source": {
+        "bytes": 2688,
+        "sha256": "07c75d58bc47fa5dd9ccdde367bd82ec0723a261d3753855f8b56f9e207b4500",
+        "scope": "inspected_local_source_not_server"
+      }
+    },
+    {
+      "file": "stage104-en-inquiry-system-integration.md",
+      "bytes": 4346,
+      "sha256": "711ea920cc5738f8182cfa2bca56a02ef0d3bd2a9d81c82dfa374486887fc62e",
+      "locale": "en",
+      "slug": "inquiry-system-integration",
+      "draft": true,
+      "intended_source": "website/src/content/insights/en/inquiry-system-integration.md",
+      "action": "new_article",
+      "base_source": null
+    },
+    {
+      "file": "stage104-zh-ai-workflow-cost-maintenance.md",
+      "bytes": 3867,
+      "sha256": "2977cd34b3a29f882cfa91a2f2cf08959758cb22206ae9bee3e1be310143d0c8",
+      "locale": "zh-CN",
+      "slug": "ai-workflow-cost-maintenance",
+      "draft": true,
+      "intended_source": "website/src/content/insights/zh/ai-workflow-cost-maintenance.md",
+      "action": "new_article",
+      "base_source": null
+    },
+    {
+      "file": "stage104-zh-inquiry-pilot-three-jobs.md",
+      "bytes": 3781,
+      "sha256": "7eecccd81d2ead2215eac973463477face604abd945e4084185d223ca8428c96",
+      "locale": "zh-CN",
+      "slug": "inquiry-pilot-three-jobs",
+      "draft": true,
+      "intended_source": "website/src/content/insights/zh/inquiry-pilot-three-jobs.md",
+      "action": "revise_existing",
+      "base_source": {
+        "bytes": 2305,
+        "sha256": "88ce86250f16044433ff34b4096858097b843b6ad4830e8862c18f3ad87f5379",
+        "scope": "inspected_local_source_not_server"
+      }
+    },
+    {
+      "file": "stage104-zh-inquiry-system-integration.md",
+      "bytes": 3925,
+      "sha256": "86227176f453072d0aae327d9414853797e64988c0a39bf4e61d50c866b8238d",
+      "locale": "zh-CN",
+      "slug": "inquiry-system-integration",
+      "draft": true,
+      "intended_source": "website/src/content/insights/zh/inquiry-system-integration.md",
+      "action": "new_article",
+      "base_source": null
+    }
+  ]
+}
