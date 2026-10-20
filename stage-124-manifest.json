@@ -1,0 +1,16 @@
+{
+  "stage": 124,
+  "date": "2026-10-21",
+  "scope": "sanitized-partner-route-clarification",
+  "application_created": false,
+  "external_application_submitted": false,
+  "production_changed_by_codex": false,
+  "github_readback": "pending",
+  "files": [
+    {
+      "path": "stage-124-partner-route.md",
+      "bytes": 1946,
+      "sha256": "953f361a46f9a77c571a4a1fe037e273e33ab1d87b7667e7095e172afa452d9d"
+    }
+  ]
+}
