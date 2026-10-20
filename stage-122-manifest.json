@@ -1,0 +1,18 @@
+{
+  "stage": 122,
+  "date": "2026-10-20",
+  "scope": "sanitized-local-media-free-publishing-research",
+  "decision": "no-integration-currently",
+  "production_changed": false,
+  "external_submission": false,
+  "new_cost": false,
+  "github_readback": "pending",
+  "muse_handoff": "pending",
+  "files": [
+    {
+      "path": "stage-122-local-media-research.md",
+      "bytes": 6163,
+      "sha256": "5cbe7b296ca5e29949c6454ae3175e4d8d21f46ef37663dca5452220f758ad87"
+    }
+  ]
+}
