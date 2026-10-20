@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "stage": "108-S02",
+  "status": "local_acceptance_passed",
+  "source_version": "2026-10-20.3",
+  "production_deployed": false,
+  "files": [
+    {
+      "path": "stage108-s02-contact-path-acceptance.md",
+      "bytes": 2200,
+      "sha256": "4b9cf477610c825e4c72effc3d75afe5c26cdd6e53c453be316f01d7f1f97348"
+    }
+  ],
+  "validation": {
+    "python_tests": "50 passed",
+    "browser_cases": "12/12 passed",
+    "page_errors": 0,
+    "failed_responses": 0,
+    "build_html_pages": 40,
+    "build_public_files": 55,
+    "internal_links_checked": 1574
+  },
+  "public_scope": "de-identified stage summary only; no source, secrets, production config, customer data or raw browser evidence",
+  "unproven": [
+    "ai_or_agent_citation",
+    "regional_or_device_indexing",
+    "qualified_inquiry",
+    "human_handoff",
+    "deal_or_revenue"
+  ],
+  "muse_draft_review": "approved_candidate",
+  "muse_source_build_review": "pending"
+}
