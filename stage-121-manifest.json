@@ -1,0 +1,23 @@
+{
+  "stage": 121,
+  "schema_version": 1,
+  "scope": "sanitized-real-consumer-observation-and-content-opportunity",
+  "observations_added": 2,
+  "official_citation": null,
+  "new_acquisition_demonstrated": false,
+  "production_release": "stage119-color-seam-20261020",
+  "github_verification": "pending-fixed-commit-readback",
+  "muse_handoff": "pending-visible-acknowledgement",
+  "files": [
+    {
+      "path": "stage-121-consumer-baseline.md",
+      "bytes": 2064,
+      "sha256": "52579b24d31cce68a7e058e67146e93cbca9cdd91011eb346ad9a9c0ef2a89a1"
+    },
+    {
+      "path": "stage-121-content-opportunity.md",
+      "bytes": 1669,
+      "sha256": "fcbb4f08963f9beb78f10281377c3bd0b1c509dc9ddac1827ac1daa586a19890"
+    }
+  ]
+}
