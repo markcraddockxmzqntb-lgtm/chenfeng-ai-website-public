@@ -1,0 +1,14 @@
+{
+  "stage": 120,
+  "rules_commit": "21fcfbb00f28046092f38139502cffc1092c1ba4",
+  "status": "installed-and-limited-read-only-drill-verified",
+  "natural_run_after_update": "awaiting-next-real-receipt",
+  "new_acquisition_demonstrated": false,
+  "files": [
+    {
+      "path": "stage-120-acceptance.md",
+      "bytes": 1715,
+      "sha256": "fdcae3df14f8d6f874195ee3a888765d11c0de7ffb4b6f9383c32b672c5dc8fc"
+    }
+  ]
+}
