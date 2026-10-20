@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "stage": 113,
+  "date": "2026-10-20",
+  "status": "production-repair-browser-and-natural-timer-verified",
+  "files": [
+    {
+      "path": "stage-113-geo-runtime-repair.md",
+      "bytes": 1853,
+      "sha256": "20b20eb24ff4c3d3aec41fff3acfcc752667d1aeb345ec971facdf80a1abbff0"
+    }
+  ],
+  "verification": {
+    "live_scan_id": 6,
+    "checks_passed": 499,
+    "checks_failed": 0,
+    "public_files_verified": 48,
+    "database_backup_integrity": "ok",
+    "original_snapshot_timer_natural_trigger_verified": true,
+    "runtime_files_hash_compared": 10,
+    "runtime_files_changed": 1
+  },
+  "production_maintenance": true,
+  "website_release_changed": false,
+  "model_calls": 0,
+  "muse_daily_job_triggered": false,
+  "scope": "sanitized summary only",
+  "excluded": [
+    "core source",
+    "credentials",
+    "production configuration",
+    "customer data",
+    "raw evidence"
+  ]
+}
