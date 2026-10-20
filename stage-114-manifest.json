@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "stage": 114,
+  "date": "2026-10-20",
+  "status": "production-published-and-independently-accepted",
+  "files": [
+    {
+      "path": "stage-114-integrated-release.md",
+      "bytes": 1968,
+      "sha256": "8dd9943c6f608aae3b936c7d516b2c4ad9a6d4bf8672a3a99f3b22c23ea34f1a"
+    }
+  ],
+  "verification": {
+    "html_pages": 40,
+    "public_files_sha_matched": 55,
+    "internal_links": 1574,
+    "local_tests_passed": 109,
+    "checks_passed": 554,
+    "checks_failed": 0,
+    "browser_viewport_runs": 4,
+    "key_test_events_http200_and_db_verified": 16,
+    "natural_snapshot_timer_verified": true,
+    "muse_source_sha_matched": 86,
+    "muse_tools_sha_matched": 3
+  },
+  "website_release_changed": true,
+  "model_calls": 0,
+  "muse_daily_job_triggered": false,
+  "real_acquisition_proven": false,
+  "scope": "sanitized summary only",
+  "excluded": [
+    "core source",
+    "credentials",
+    "production configuration",
+    "customer data",
+    "raw evidence"
+  ]
+}
