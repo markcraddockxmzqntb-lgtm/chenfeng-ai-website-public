@@ -1,0 +1,39 @@
+{
+  "stage": 120,
+  "schema_version": 1,
+  "scope": "project-authored-operational-instructions-only",
+  "execution": "explicit-read-by-existing-Muse-task",
+  "production_website_changed": false,
+  "installation_and_behavior_verification": "pending-real-receipts",
+  "files": [
+    {
+      "path": "stage-120-cf-search-opportunity-SKILL.md",
+      "install_path": "skills/cf-search-opportunity/SKILL.md",
+      "bytes": 2461,
+      "sha256": "3fbba744182afe519a60b854724cc30bb505aea2196df4a6b8d8b0f10c4a9443"
+    },
+    {
+      "path": "stage-120-cf-citable-page-SKILL.md",
+      "install_path": "skills/cf-citable-page/SKILL.md",
+      "bytes": 2758,
+      "sha256": "8d08db4d7b5857797a9fa903250f784777b5e650e694a21dbbf14df5f3829bd4"
+    },
+    {
+      "path": "stage-120-cf-free-resource-SKILL.md",
+      "install_path": "skills/cf-free-resource/SKILL.md",
+      "bytes": 2192,
+      "sha256": "e39efc58abc2e49e176e355a30f8d5b505911bc503a16c5425d1612221d00af8"
+    },
+    {
+      "path": "stage-120-cf-weekly-discovery-review-SKILL.md",
+      "install_path": "skills/cf-weekly-discovery-review/SKILL.md",
+      "bytes": 2289,
+      "sha256": "264d96e9d7c141d6036596978d90bbdc1c5cfd511084e9b17c51133da2161188"
+    },
+    {
+      "path": "stage-120-operations-rules.md",
+      "bytes": 1687,
+      "sha256": "fc82e86d42e07a1f82b71e6df22fa3fb343e2ccc975b1c3ff7bd916af26a232b"
+    }
+  ]
+}
