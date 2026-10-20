@@ -1,0 +1,13 @@
+{
+  "stage": 118,
+  "status": "withdrawn-before-deployment",
+  "production_stage": 117,
+  "candidate_deployed": false,
+  "files": [
+    {
+      "path": "stage-118-withdrawal.md",
+      "bytes": 1139,
+      "sha256": "1a7cbc79a58d7b320cc09cd95c197d86a025cc18c0d1c11c1745789175dd0449"
+    }
+  ]
+}
