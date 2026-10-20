@@ -1,16 +1,18 @@
 {
   "schema_version": 1,
   "stage": 111,
+  "revision": 2,
   "date": "2026-10-20",
+  "supersedes_interpretation_in_commit": "f1630420dbe807fb42f5999ffb8ff100e9327a7f",
   "files": [
     {
       "path": "stage-111-state-reconciliation.md",
-      "bytes": 1529,
-      "sha256": "2b7fcafba2686e5ca65fc8fae2e2d1bb6cd8cfe9ac32aed148473d1c91fd601d"
+      "bytes": 2207,
+      "sha256": "738a88adc621ebcb52fccd278f791ab41cb2f0f8769acdba44b1956032105a5f"
     }
   ],
-  "production_publish_allowed": false,
-  "scope": "sanitized progress summary only",
+  "publication_readiness_scope": "Subsequent candidate releases await preflight; live server activation gate not queried or changed this check.",
+  "scope": "sanitized corrected progress summary only",
   "excluded": [
     "core source",
     "credentials",
