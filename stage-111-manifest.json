@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stage": 111,
+  "date": "2026-10-20",
+  "files": [
+    {
+      "path": "stage-111-state-reconciliation.md",
+      "bytes": 1529,
+      "sha256": "2b7fcafba2686e5ca65fc8fae2e2d1bb6cd8cfe9ac32aed148473d1c91fd601d"
+    }
+  ],
+  "production_publish_allowed": false,
+  "scope": "sanitized progress summary only",
+  "excluded": [
+    "core source",
+    "credentials",
+    "production configuration",
+    "customer data",
+    "raw browser evidence"
+  ]
+}
