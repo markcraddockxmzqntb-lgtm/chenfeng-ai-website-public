@@ -1,0 +1,17 @@
+{
+  "stage": 119,
+  "status": "published-and-independently-verified",
+  "production_release": "stage119-color-seam-20261020",
+  "content_version": "2026-10-20.4",
+  "public_files_verified": 61,
+  "source_files_changed": 1,
+  "layout_changed": false,
+  "stage118_withdrawn": true,
+  "files": [
+    {
+      "path": "stage-119-color-seam.md",
+      "bytes": 1358,
+      "sha256": "7e51a86b4318ac7843db158a2c68504bb2d5454792e60ffb0a1cc92c0ceacb81"
+    }
+  ]
+}
