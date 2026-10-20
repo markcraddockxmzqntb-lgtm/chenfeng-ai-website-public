@@ -1,0 +1,27 @@
+{
+  "stage": 115,
+  "date": "2026-10-20",
+  "production_release": "stage114-integrated-20261020",
+  "content_version": "2026-10-20.3",
+  "production_changed": false,
+  "gsc_index_requests_accepted": 2,
+  "indexing_confirmed": null,
+  "public_files_verified": 5,
+  "current_sitemap_urls": 40,
+  "indexnow_status": "transport-outcome-unknown",
+  "indexnow_attempted_urls": 40,
+  "indexnow_confirmed_submitted_urls": 0,
+  "indexnow_http_status": null,
+  "notification_closed": false,
+  "real_ai_citation_or_acquisition_proven": false,
+  "paid_model_calls": 0,
+  "new_scheduler": false,
+  "files": [
+    {
+      "path": "stage-115-search-discovery.md",
+      "bytes": 1862,
+      "sha256": "40ba2514719ae42f3a5a657691a92d1695e15905188d1a9e61c2b243ec29f12a"
+    }
+  ],
+  "scope": "Redacted public snapshot; private receipts, credentials, config and source excluded. GitHub/Muse closure recorded separately."
+}
