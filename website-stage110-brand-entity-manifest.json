@@ -1,0 +1,17 @@
+{
+  "stage": "110",
+  "status": "draft_pending_muse_review",
+  "generated_at": "2026-10-20T10:30:00+08:00",
+  "files": [
+    {
+      "path": "stage-110-brand-entity-draft.md",
+      "sha256": "59e0a8b49e8899d619aa0394978988ba0371a389d3f8ea692eeeb8807e7fd46f",
+      "bytes": 5646
+    }
+  ],
+  "boundaries": [
+    "仅包含品牌、主体、服务范围和公开联系方式的候选内容",
+    "不含核心源码、生产配置、密钥、客户资料或原始浏览器证据",
+    "草稿未发布，需 Muse 审核后才能进入发布评估"
+  ]
+}
