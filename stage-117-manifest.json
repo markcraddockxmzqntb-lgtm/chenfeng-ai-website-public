@@ -1,0 +1,31 @@
+{
+  "stage": 117,
+  "date": "2026-10-20",
+  "production_release": "stage117-media-capacity-20261020",
+  "content_version": "2026-10-20.4",
+  "public_https_files_verified": 61,
+  "dashboard_checks_passed": 560,
+  "dashboard_checks_failed": 0,
+  "related_local_tests_passed": 147,
+  "real_chat_acceptance_turns": 4,
+  "muse_installation_export_verified": true,
+  "baseline_only_two_fields_changed_verified": true,
+  "natural_updated_task_execution_proven": false,
+  "notification_success_proven": false,
+  "search_indexing_or_ai_citation_proven": null,
+  "real_acquisition_proven": false,
+  "new_accounts_or_recurring_costs": false,
+  "files": [
+    {
+      "path": "stage-117-media-capacity.md",
+      "bytes": 1356,
+      "sha256": "eb714286a483659ce56c09c47449808f07ab8a1813508662198c1b608242f5ac"
+    },
+    {
+      "path": "stage-117-operations-notes.md",
+      "bytes": 1470,
+      "sha256": "b6b9db408b75a37cf38947fab82c74bb73b144e90d5a458bbd353837d436fc75"
+    }
+  ],
+  "scope": "Redacted summaries only. Exported Muse receipts verified; live Muse scheduler API not directly inspected."
+}
