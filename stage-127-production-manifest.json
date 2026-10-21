@@ -1,0 +1,36 @@
+{
+  "stage": 127,
+  "date": "2026-10-22",
+  "status": "production-and-shenma-ownership-verified",
+  "supplements_commit": "9551fc2ab75e28a7665596c190829d1c315147e1",
+  "checks": {
+    "release_tests_passed": 44,
+    "publisher_tests_passed": 23,
+    "published_files": 70,
+    "verification_file_http": 200,
+    "verification_file_https": 200,
+    "verification_file_bytes": 68,
+    "original_bytes_matched": true,
+    "homepage_http": 301,
+    "homepage_https": 200,
+    "nginx_syntax": "passed",
+    "reload": "passed",
+    "service": "active",
+    "shenma_ownership": "verified",
+    "shenma_index_count": "暂无",
+    "baidu_ownership": "not verified in this stage"
+  },
+  "outcome_boundary": [
+    "ownership is distinct from indexing",
+    "AI citation not demonstrated",
+    "customer acquisition not demonstrated"
+  ],
+  "excluded": [
+    "core source code",
+    "real verification files and token text",
+    "credentials",
+    "private server configuration",
+    "customer data",
+    "browser sessions"
+  ]
+}
