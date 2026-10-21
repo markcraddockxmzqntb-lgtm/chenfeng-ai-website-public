@@ -1,0 +1,17 @@
+{
+  "stage": 125,
+  "date": "2026-10-21",
+  "scope": "sanitized-natural-run-and-live-acceptance",
+  "production_changed_by_codex": false,
+  "natural_run_reported_by_muse": true,
+  "daily_report_id_independently_read": 5,
+  "current_release": "muse-ops-20261021-baidumeta-124220",
+  "github_readback": "pending",
+  "files": [
+    {
+      "path": "stage-125-final-acceptance.md",
+      "bytes": 2028,
+      "sha256": "9b321a1c90aefabdba28c12b287f3c7dc0ae065ce00915d9291e55332d012795"
+    }
+  ]
+}
