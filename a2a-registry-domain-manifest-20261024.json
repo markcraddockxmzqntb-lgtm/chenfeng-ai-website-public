@@ -1,0 +1,32 @@
+{
+  "stage": "a2a-registry-domain-20261024",
+  "date": "2026-10-24",
+  "timezone": "Asia/Shanghai",
+  "domain": "chenfengai.cn",
+  "public_registry_badge": "Verified",
+  "public_organization": "马鞍山市尘风信息科技有限公司",
+  "dns_exact_matches": 4,
+  "platform_claim": "Muse reports 1/1 claimed; public organization association independently observed",
+  "files": [
+    {
+      "path": "a2a-registry-domain-20261024.md",
+      "bytes": 2126,
+      "sha256": "ae351b932d9dac17f36c5f6e8ec2364498c4a55790c5b18677d56e62ebd343e1"
+    }
+  ],
+  "excluded": [
+    "verification challenge",
+    "credentials",
+    "core code",
+    "private browser evidence",
+    "customer data",
+    "raw access logs"
+  ],
+  "not_proven": [
+    "AI indexing",
+    "AI citations",
+    "third-party A2A calls",
+    "customer acquisition"
+  ],
+  "ua_log_aggregate": "pending-unverified"
+}
