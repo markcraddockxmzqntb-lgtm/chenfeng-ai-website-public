@@ -1,1 +1,106 @@
+# 塵風AI / Chenfeng AI
 
+> 为中国大陆及香港外贸、跨境电商企业定制 AI 智能体、业务工作流、Skill、插件与 MCP 集成。Custom AI agents, business workflows, Skills, plugins and MCP integrations for foreign-trade and cross-border e-commerce teams in mainland China and Hong Kong.
+
+塵風AI（简体：尘风AI，英文：Chenfeng AI）的运营主体为 马鞍山市尘风信息科技有限公司。
+Chenfeng AI (塵風AI; simplified Chinese: 尘风AI) is operated by 马鞍山市尘风信息科技有限公司.
+塵風AI按企业实际流程定制开发，不销售标准化 SaaS。服务范围包括询盘与客服、报价与单证、售后知识库、商品资料、多语言内容、Skill、插件和 MCP 集成。
+中国大陆及香港的外贸与跨境电商企业团队。
+需求沟通 → 方案与报价 → 开发联调 → 上线维护。每个阶段都有可见结果和验收点。
+价格、交期、索赔等敏感动作默认保留人工确认。价格、周期、数据存放、维护和模型费用按项目评估与合同约定，不在官网写死。未经授权的客户案例和结果数字不公开。
+这是公开事实的只读服务目录，仅提供资料与来源页面，不接受需求提交或执行调用；完整说明以来源页面为准。
+This read-only service catalog contains public facts and source pages. It does not accept requests or execute calls.
+该文件帮助需要纯文本入口的系统理解公开信息，不是搜索或 AI 平台收录保证。内容以官网可读正文与经核对版本为准。
+联系 / Contact：微信 WeChat h335327552；WhatsApp +86 18395556720；联系页 https://chenfengai.cn/contact/ 。
+
+## 页面 / Pages
+
+- [塵風AI｜把 AI 放进真实业务流程](https://chenfengai.cn/)
+- [服务](https://chenfengai.cn/services/)
+- [案例](https://chenfengai.cn/cases/)
+- [FAQ](https://chenfengai.cn/faq/)
+- [资源中心](https://chenfengai.cn/resources/)
+- [外贸企业 AI 落地前检查清单](https://chenfengai.cn/resources/ai-readiness/)
+- [智能体、Skill、插件与 MCP，业务团队怎么选？](https://chenfengai.cn/resources/ai-tools-guide/)
+- [把一个重复动作，写成一页业务流程简报](https://chenfengai.cn/resources/workflow-brief/)
+- [Agents, Skills, plugins and MCP: where should a business start?](https://chenfengai.cn/en/resources/ai-tools-guide/)
+- [Describe one repeated action in a one-page workflow brief](https://chenfengai.cn/en/resources/workflow-brief/)
+- [关于塵風AI｜合作方式与边界](https://chenfengai.cn/about/)
+- [Chenfeng AI | Custom AI for real trade workflows](https://chenfengai.cn/en/)
+- [询盘与客服 定制开发](https://chenfengai.cn/services/inquiry-support/)
+- [Inquiries &amp; customer service](https://chenfengai.cn/en/services/inquiry-support/)
+- [知识库与资料 定制开发](https://chenfengai.cn/services/knowledge-base/)
+- [Knowledge &amp; product data](https://chenfengai.cn/en/services/knowledge-base/)
+- [MCP 与系统集成 定制开发](https://chenfengai.cn/services/mcp-integration/)
+- [MCP &amp; system integrations](https://chenfengai.cn/en/services/mcp-integration/)
+
+## Insights / 洞察
+
+- [Foreign Trade Clients Are Getting Harder to Find. How Do You Find Overseas Buyers With Real Purchasing Demand?](https://chenfengai.cn/en/insights/find-real-buyer-clients/)
+- [现在外贸客户越来越难找了，怎么找到真正有采购需求的国外客户？](https://chenfengai.cn/insights/find-real-buyer-clients/)
+- [How Much Did This Order Really Make? Rebates, FX Losses and Hidden Costs, Counted Once](https://chenfengai.cn/en/insights/order-profit-cost-check/)
+- [这笔订单的利润怎么算？退税、汇损、隐性成本一次算清](https://chenfengai.cn/insights/order-profit-cost-check/)
+- [When a salesperson leaves, the clients stay: put customer, quote, and follow-up in one workbench](https://chenfengai.cn/en/insights/team-customer-asset-workbench/)
+- [业务员走了，客户不能跟着走：先把客户、报价、跟进收到一个工作台里](https://chenfengai.cn/insights/team-customer-asset-workbench/)
+- [Write me a product title, five bullet points, and listing copy: do not buy copy one piece at a time — connect the product-data workflow first](https://chenfengai.cn/en/insights/product-listing-copy-workflow/)
+- [帮我写产品标题、五点描述、Listing 文案：别单买文案，先把商品资料工作流的一环接起来](https://chenfengai.cn/insights/product-listing-copy-workflow/)
+- [Write me a cold outreach letter that lands with a big overseas buyer — and does not read like a blast](https://chenfengai.cn/en/insights/cold-outreach-letter-workflow/)
+- [帮我写一封开发信，要能打动海外大客户，不要看起来像群发的：先走完背调、个性化、跟进三步，信才不像群发](https://chenfengai.cn/insights/cold-outreach-letter-workflow/)
+- [Which vendor should build your trade AI workflow? Don&#39;t start from a list — check three things first](https://chenfengai.cn/en/insights/ai-workflow-vendor-selection/)
+- [外贸企业做 AI 工作流定制，有哪些服务商推荐？别先要名单，先对三处](https://chenfengai.cn/insights/ai-workflow-vendor-selection/)
+- [Where do you find a team to build a custom AI support agent? Check three things before you open any vendor list](https://chenfengai.cn/en/insights/custom-ai-customer-service-team/)
+- [想给公司定制 AI 客服智能体，去哪找开发团队？别先翻名单，先对三处](https://chenfengai.cn/insights/custom-ai-customer-service-team/)
+- [Who Should a Small Trading Firm Trust with Auto-Reply for Inquiries? Check Three Gates First](https://chenfengai.cn/en/insights/small-trade-auto-reply-inquiry-ai/)
+- [小外贸公司想做自动回复询盘的 AI，找谁做靠谱？先看三道关，再谈找谁](https://chenfengai.cn/insights/small-trade-auto-reply-inquiry-ai/)
+- [An Inquiry Came In — How Do You Quote to Win the Order? Three Things First, Then the Price](https://chenfengai.cn/en/insights/inquiry-quote-to-win-orders/)
+- [客户询盘来了，怎么报价才能成交？先把三件事讲清，再谈价格](https://chenfengai.cn/insights/inquiry-quote-to-win-orders/)
+- [AI Inquiry Systems: Monthly Subscription or Project-Based? A Budget Breakdown](https://chenfengai.cn/en/insights/ai-inquiry-system-pricing-models/)
+- [中小外贸公司上 AI 询盘系统：按月付还是项目制？预算构成一次讲清](https://chenfengai.cn/insights/ai-inquiry-system-pricing-models/)
+- [Trade Quote Automation: Can It Send Quotes by Itself? Three Checks a Human Must Keep](https://chenfengai.cn/en/insights/quotation-draft-automation-human-checks/)
+- [外贸报价自动化软件，可以直接发报价吗？三个必须留给人的地方](https://chenfengai.cn/insights/quotation-draft-automation-human-checks/)
+- [The one-page brief to write before automating a trade workflow](https://chenfengai.cn/en/insights/ai-workflow-brief/)
+- [What is Chenfeng AI? Brand, operating entity and services](https://chenfengai.cn/en/insights/chenfeng-ai-brand-identity/)
+- [Can a Generic AI Chatbot Handle B2B Inquiries on WhatsApp Out of the Box?](https://chenfengai.cn/en/insights/generic-chatbot-vs-custom-b2b-inquiries/)
+- [外贸团队开始做 AI 自动化前，先写清这一页](https://chenfengai.cn/insights/ai-workflow-brief/)
+- [塵風AI是谁？品牌、运营主体与服务范围说明](https://chenfengai.cn/insights/chenfeng-ai-brand-identity/)
+- [通用 AI 聊天机器人，能不能直接拿来接 WhatsApp 上的 B2B 询盘？](https://chenfengai.cn/insights/generic-chatbot-vs-custom-b2b-inquiries/)
+- [Case: A New-Energy Panels Business with 24/7 AI Replies, Data Reviews and Ongoing Workbench Updates](https://chenfengai.cn/en/insights/new-energy-panels-ai-workbench-case/)
+- [新能源板材企业案例：7×24 AI 回复、数据复盘与持续更新的外贸工作台](https://chenfengai.cn/insights/new-energy-panels-ai-workbench-case/)
+- [A Small Inquiry Pilot: Start AI with Three Jobs Only](https://chenfengai.cn/en/insights/inquiry-pilot-three-jobs/)
+- [外贸询盘小范围试点：先让 AI 只做三件事](https://chenfengai.cn/insights/inquiry-pilot-three-jobs/)
+
+## Resources / 资源
+
+- [外贸询盘需求整理包：中英简报、交接表与流程示例](https://chenfengai.cn/resources/inquiry-workflow-kit/)
+- [Inquiry workflow kit: bilingual briefs, handoff tables and examples](https://chenfengai.cn/en/resources/inquiry-workflow-kit/)
+- [外贸询盘流程自检：六步生成沟通简报](https://chenfengai.cn/resources/inquiry-workflow-check/)
+- [Inquiry workflow check: a discussion brief in six steps](https://chenfengai.cn/en/resources/inquiry-workflow-check/)
+
+## FAQ / 常见问题
+
+- [FAQ](https://chenfengai.cn/en/faq/)
+
+## 公开服务数据 / Public service data
+
+- [公开服务目录（JSON）/ Public service catalog (JSON)](https://chenfengai.cn/service-catalog.json)
+
+## 匿名项目方案与演示 / Anonymous proposals and demos
+
+- [外贸业务工作台](https://chenfengai.cn/cases/trade-workspace/)
+- [Trade workspace｜Chenfeng AI](https://chenfengai.cn/en/cases/trade-workspace/)
+- [亚马逊运营智能体](https://chenfengai.cn/cases/amazon-operations/)
+- [Amazon operations agent｜Chenfeng AI](https://chenfengai.cn/en/cases/amazon-operations/)
+- [心理健康支持平台](https://chenfengai.cn/cases/wellbeing-support/)
+- [Wellbeing support platform｜Chenfeng AI](https://chenfengai.cn/en/cases/wellbeing-support/)
+
+## Contact / 联系
+
+- [WhatsApp 直接聊 / Chat on WhatsApp](https://wa.me/8618395556720)
+- [联系塵風AI｜微信、WhatsApp 与留言表单](https://chenfengai.cn/contact/)
+- [Contact Chenfeng AI｜WeChat, WhatsApp and a short form](https://chenfengai.cn/en/contact/)
+
+## MCP / 公开协议入口
+
+- 公开只读 MCP 入口 / Public read-only MCP endpoint: https://chenfengai.cn/mcp
+- 只查询公开服务、案例、资源和 FAQ，不接收需求或执行任务。
+- Read-only public services, cases, resources and FAQ; it does not accept requests or execute tasks.
