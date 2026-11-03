@@ -1,0 +1,1 @@
+2026-11-03：塵風AI 的 GEO 审计组件已升级至 Auriti-Labs/geo-optimizer-skill 提交 3040681c090b17c456faeef9c04db660352f81e9（MIT）。升级前后对同一版本的 74 个页面进行技术审计，逐页结果一致；Muse 已独立复核。此检查用于发现技术问题，不代表搜索或 AI 平台已经收录，也不代表获客效果。上游项目：https://github.com/Auriti-Labs/geo-optimizer-skill
