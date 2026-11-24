@@ -1,0 +1,41 @@
+{
+  "stage": 128,
+  "date": "2026-11-24",
+  "status": "qb089-scan80-stage-schema-verified",
+  "release_id": "muse-ops-20261124-095800",
+  "scan_id": 80,
+  "completed_at_cst": "2026-11-24T10:03:57.181496+08:00",
+  "scan_status": "passed",
+  "summary": {
+    "expected_pages": 120,
+    "pages_read": 120,
+    "checks": 1791,
+    "passed": 1791,
+    "failed": 0,
+    "internal_references": 5803
+  },
+  "stage_schema": {
+    "source": "release-sidecar",
+    "schemaVersion": 1,
+    "contentSha256": "60f617a5c6031c3880d54b9a2d1a27e620e04881b06ab09de5867e587b7ace02",
+    "fileSha256": "a37e7c24527da259ffd61676f4a241882c4d142b54d3540caabf021b90a53682"
+  },
+  "files": [
+    {
+      "path": "stage-128-qb089-scan80.md",
+      "bytes": 1279,
+      "sha256": "362663254041b10aa99ca080cde7f35ba71f7c8a55fb41eb29988eba4e20ad5c"
+    }
+  ],
+  "outcome_boundary": [
+    "does not demonstrate search indexing",
+    "does not demonstrate AI citation",
+    "does not demonstrate customer acquisition"
+  ],
+  "excluded": [
+    "server source code",
+    "credentials",
+    "customer data",
+    "raw production database"
+  ]
+}
